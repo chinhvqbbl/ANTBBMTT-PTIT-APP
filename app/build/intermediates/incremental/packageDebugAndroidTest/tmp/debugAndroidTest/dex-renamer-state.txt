@@ -1,0 +1,10 @@
+#Thu Apr 03 00:16:44 ICT 2025
+base.0=D\:\\OUT SRC\\Dynamic-Island\\Dynamic-Island\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=D\:\\OUT SRC\\Dynamic-Island\\Dynamic-Island\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\10\\classes.dex
+base.2=D\:\\OUT SRC\\Dynamic-Island\\Dynamic-Island\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\6\\classes.dex
+path.0=0/classes.dex
+path.1=10/classes.dex
+path.2=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

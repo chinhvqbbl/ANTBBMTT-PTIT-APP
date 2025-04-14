@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:tag="layout/fragment_configs_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/color_F5F5F5"
+            android:padding="@dimen/_16sdp">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_configs"
+                style="@style/TextViewSemiBold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/configs"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <RelativeLayout
+                android:id="@+id/rlt_keep_notch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_12sdp"
+                android:background="@drawable/bg_configs"
+                android:padding="@dimen/_8sdp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_configs">
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/tv_keep_notch_visible"
+                    style="@style/TextViewMediumActive"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/keep_notch_visible" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/when_nothing"
+                    style="@style/TextViewRegular"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_keep_notch_visible"
+                    android:text="@string/when_nothing_to_show" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/tv_always"
+                    style="@style/TextViewRegular"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginEnd="@dimen/_4sdp"
+                    android:layout_toStartOf="@id/img_arrow"
+                    android:text="@string/always" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_arrow"
+                    android:layout_width="10dp"
+                    android:layout_height="12dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/ic_arrow_right" />
+            </RelativeLayout>
+
+            <androidx.appcompat.widget.SwitchCompat
+                android:id="@+id/switch_auto_adjust"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_16sdp"
+                android:background="@drawable/bg_switch_dynamic"
+                android:checked="true"
+                android:fontFamily="@font/fira_sans_medium"
+                android:padding="@dimen/_8sdp"
+                android:text="@string/auto_adjust_notch"
+                android:textColor="@color/black"
+                android:theme="@style/SCBSwitch"
+                android:textSize="12dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/rlt_keep_notch" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_force_your"
+                style="@style/TextViewRegular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/force_your_notch_to_be_centered_in_split_mode"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/switch_auto_adjust" />
+
+            <androidx.appcompat.widget.SwitchCompat
+                android:id="@+id/switch_hide_in_landscape_mode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_16sdp"
+                android:background="@drawable/bg_switch_dynamic"
+                android:checked="true"
+                android:text="@string/hide_in_landscape_mode"
+                android:fontFamily="@font/fira_sans_medium"
+                android:padding="@dimen/_8sdp"
+                android:theme="@style/SCBSwitch"
+                android:textColor="@color/black"
+                android:textSize="12dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_force_your" />
+
+            <androidx.appcompat.widget.SwitchCompat
+                android:id="@+id/switch_notification_anim"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_16sdp"
+                android:background="@drawable/bg_switch_dynamic"
+                android:checked="false"
+                android:fontFamily="@font/fira_sans_medium"
+                android:text="@string/shake"
+                android:padding="@dimen/_8sdp"
+                android:textColor="@color/black"
+                android:textSize="12dp"
+                android:theme="@style/SCBSwitch"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/switch_hide_in_landscape_mode" />
+
+            <RelativeLayout
+                android:id="@+id/rlt_notch_click_mode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_12sdp"
+                android:background="@drawable/bg_configs"
+                android:padding="@dimen/_8sdp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/switch_notification_anim">
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/tv_notch_click_mode"
+                    style="@style/TextViewMediumActive"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/notch_click_code" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/tv_normal"
+                    style="@style/TextViewRegular"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginEnd="@dimen/_4sdp"
+                    android:layout_toStartOf="@id/img_arrow_notch"
+                    android:text="@string/normal_click" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_arrow_notch"
+                    android:layout_width="10dp"
+                    android:layout_height="12dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/ic_arrow_right" />
+            </RelativeLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+
+
+         

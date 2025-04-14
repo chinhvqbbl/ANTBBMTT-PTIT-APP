@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "984578399999",
+    "firebase_url": "https://dynamic-10d0a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dynamic-10d0a",
+    "storage_bucket": "dynamic-10d0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984578399999:android:d247242110f8706988f6ca",
+        "android_client_info": {
+          "package_name": "com.tools.edge.dynamic.island"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3D5r5iwVPk8SX_eR36bp-UQSGKfQis4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

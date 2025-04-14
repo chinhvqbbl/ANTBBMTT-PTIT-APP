@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="app_txt_colr">#444444</color>
+    <color name="background">#ff171717</color>
+    <color name="black">#000000</color>
+    <color name="blue_400">#42a5f5</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="blue_800">#1565c0</color>
+    <color name="bottomSheetDividerColor">@color/grey_200</color>
+    <color name="btm_selct">#ff494646</color>
+    <color name="card_divider_color">#ffffffff</color>
+    <color name="cardview_color">#ffffff</color>
+    <color name="colorBackground">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">#42a5f5</color>
+    <color name="colorDisable">#bcbcbc</color>
+    <color name="colorGreen">#4caf50</color>
+    <color name="colorGrey">#808080</color>
+    <color name="colorPointer">#222222</color>
+    <color name="colorPrimaryLight">#424242</color>
+    <color name="colorPurple">#9c27b0</color>
+    <color name="colorRed">#b71c1c</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorYellow">#ffd54f</color>
+    <color name="color_00A03A">#00A03A</color>
+    <color name="color_3346F1">#3346f1</color>
+    <color name="color_57D76A">#57D76A</color>
+    <color name="color_777777">#777777</color>
+    <color name="color_777777_25">#25777777</color>
+    <color name="color_809682FF">#809682FF</color>
+    <color name="color_80DADADA">#80DADADA</color>
+    <color name="color_9682FF">#9682FF</color>
+    <color name="color_9E9E9E">#9E9E9E</color>
+    <color name="color_DADADA">#DADADA</color>
+    <color name="color_F5F5F5">#F5F5F5</color>
+    <color name="color_FF9F2E">#FF9F2E</color>
+    <color name="color_FFA510">#FFA510</color>
+    <color name="color_background">#4b4b4b</color>
+    <color name="color_bg_main">#F4F4F4</color>
+    <color name="color_main">#0573B8</color>
+    <color name="color_progress">#fbfbfb</color>
+    <color name="color_text">@android:color/black</color>
+    <color name="color_transparent_60">#60000000</color>
+    <color name="colorbtn1">#ffb979</color>
+    <color name="colorbtn2">#7f90ff</color>
+    <color name="colorbtn3">#ff7b7c</color>
+    <color name="colorbtn4">#c67cff</color>
+    <color name="colorbtn5">#7abe20</color>
+    <color name="colorbtn6">#ff447f</color>
+    <color name="colorbtn7">#ff791b</color>
+    <color name="colorbtn8">#ff7ce8</color>
+    <color name="control_center_txt_color">#565855</color>
+    <color name="default_background_color">#8800ff</color>
+    <color name="default_glow_color">#885bfc</color>
+    <color name="default_noti_color">#1690fe</color>
+    <color name="default_wallpaper_color">#b82f48</color>
+    <color name="dr_txt">#ff515050</color>
+    <color name="dr_txt_selc">#ff686868</color>
+    <color name="gmai_color">#ffd93025</color>
+    <color name="gray">#656565</color>
+    <color name="grayFontColor">#424242</color>
+    <color name="gray_transparent">#77222222</color>
+    <color name="green">#04cb69</color>
+    <color name="green_400">#66bb6a</color>
+    <color name="green_500">#4caf50</color>
+    <color name="grey_200">#eeeeee</color>
+    <color name="grid_item_bg">#1a1b1d</color>
+    <color name="header">#ff101010</color>
+    <color name="home_back_color">#f2f2f2</color>
+    <color name="media_time_color">#dddddd</color>
+    <color name="nav_unselected_color">#e61b1919</color>
+    <color name="negativeButtonTextColor">@color/colorAccent</color>
+    <color name="noti_action_text_color">#008577</color>
+    <color name="off_button">#656565</color>
+    <color name="on_button">#ffffff</color>
+    <color name="on_text">#f5f5f5</color>
+    <color name="orange">#ff9a1e</color>
+    <color name="panel_bg">#77f2f2f2</color>
+    <color name="panel_bg_color">#f0f2f5</color>
+    <color name="pattren_dot_color">#ffffff</color>
+    <color name="pin_field_color">#33ffffff</color>
+    <color name="positiveButtonTextColor">@color/colorAccent</color>
+    <color name="preference_fallback_accent_color">#ff008577</color>
+    <color name="press">#ff01b9ff</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_400">#ab47bc</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red_500">#f44336</color>
+    <color name="reply_bg_color">#77b3c9e0</color>
+    <color name="selected">#1690fe</color>
+    <color name="setting_seperate_color">#f1f1f1</color>
+    <color name="setting_tv_color">#2e2e2e</color>
+    <color name="setting_tv_color_blue">#0084d0</color>
+    <color name="start_btn_color">#bfff4081</color>
+    <color name="tab_bar_color">#ffffff</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="thumb_color">#0481ff</color>
+    <color name="track_color">#b3c9e0</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent80">#80F5F5F5</color>
+    <color name="transparentFullWhite">#01ffffff</color>
+    <color name="un_selected">#e5e5e5</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="action_bar_size">16dp</dimen>
+    <dimen name="ahoy_card_radius">10dp</dimen>
+    <dimen name="banner_height">50dp</dimen>
+    <dimen name="battery_icon_size">22dp</dimen>
+    <dimen name="collapse_hight">95dp</dimen>
+    <dimen name="color_card_margin">6dp</dimen>
+    <dimen name="color_card_radius">24dp</dimen>
+    <dimen name="color_card_size">48dp</dimen>
+    <dimen name="color_card_square_radius">4dp</dimen>
+    <dimen name="color_picker_view_size">240dp</dimen>
+    <dimen name="dr_txt_size">20sp</dimen>
+    <item format="float" name="gnt_text_row_weight" type="dimen">0.25</item>
+    <dimen name="icon_size">30dp</dimen>
+    <dimen name="medium_margin">5dp</dimen>
+    <dimen name="medium_margin2">8dp</dimen>
+    <dimen name="menu_corner_radius">10dp</dimen>
+    <dimen name="menu_elevation">8dp</dimen>
+    <dimen name="mid_small_margin">4dp</dimen>
+    <dimen name="normal_margin">10dp</dimen>
+    <dimen name="rl_end_margin">20dp</dimen>
+    <dimen name="rl_land_margin">5dp</dimen>
+    <dimen name="rl_start_margin">20dp</dimen>
+    <dimen name="seperator_margin">25dp</dimen>
+    <dimen name="setting_img_text_margin">10dp</dimen>
+    <dimen name="setting_item_height">70dp</dimen>
+    <dimen name="setting_margin_from_img">15dp</dimen>
+    <dimen name="setting_margin_left_right">7dp</dimen>
+    <dimen name="setting_section_margin">12dp</dimen>
+    <dimen name="setting_tv_size">14sp</dimen>
+    <dimen name="settings_txt_size">13sp</dimen>
+    <dimen name="small_margin">2dp</dimen>
+    <dimen name="sub_title_text_size">12sp</dimen>
+    <dimen name="sub_title_top_margin">5dp</dimen>
+    <dimen name="subtitle_corner_radius">2dp</dimen>
+    <dimen name="subtitle_outline_width">2dp</dimen>
+    <dimen name="subtitle_shadow_offset">2dp</dimen>
+    <dimen name="subtitle_shadow_radius">2dp</dimen>
+    <dimen name="test_dimen">2dp</dimen>
+    <dimen name="text_margin_top">5dp</dimen>
+    <dimen name="text_start_margin">15dp</dimen>
+    <dimen name="title_start_margin">15dp</dimen>
+    <dimen name="title_text_size">12sp</dimen>
+    <dimen name="toggle_height">24dp</dimen>
+    <dimen name="toggle_size">30dp</dimen>
+    <dimen name="toggle_width">40dp</dimen>
+    <string name="accessibility">Accessibility</string>
+    <string name="accessibility_desc">This service allows the use of overlay window on top of the screen for notifications. \n\nNo data is stored on the device or sent over the internet.</string>
+    <string name="adjust_token" translatable="false">abc</string>
+    <string name="agree">Agree</string>
+    <string name="airpods">Airpods</string>
+    <string name="always">Always</string>
+    <string name="animation">Animation</string>
+    <string name="app_name" translatable="false">Dynamic Island: Edge Lighting</string>
+    <string name="applied">Applied</string>
+    <string name="apply">Apply</string>
+    <string name="auto_adjust_notch">Auto Adjust Notch</string>
+    <string name="backgroundImageName">computer_bg_image</string>
+    <string name="battery_Charge">Battery Charge</string>
+    <string name="battery_charging_animation">Battery charging animation</string>
+    <string name="battery_optimization">Battery Optimization</string>
+    <string name="bluetooth_permission">Bluetooth Permission not granted!</string>
+    <string name="brightness_mode">Brightness</string>
+    <string name="calls">Calls</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">Cancel</string>
+    <string name="charging_txt">Charging</string>
+    <string name="click_mode">Click Mode</string>
+    <string name="clock">Clock</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">00000000000000000000000000000000</string>
+    <string name="configs">Configs</string>
+    <string name="custom">Custom</string>
+    <string name="data_saver">Data Saver</string>
+    <string name="disable_battery_optimization_if_your_notch_disappear_automatically_after_some_times">Disable battery optimization if your notch disappear automatically after some times</string>
+    <string name="disclosure">Disclosure</string>
+    <string name="display_listening_music_on_your_notch">Display listening music on your notch</string>
+    <string name="display_notch">Display Notch</string>
+    <string name="done">Done!</string>
+    <string name="dynamic_island" translatable="false">Dynamic Island</string>
+    <string name="enable_location">Enable Location</string>
+    <string name="facebook_app_id" translatable="false">1111</string>
+    <string name="facebook_client_token" translatable="false">111111</string>
+    <string name="firebase_database_url" translatable="false">https://dynamic-10d0a-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="force_your_notch_to_be_centered_in_split_mode">Force your notch to be centered in split mode</string>
+    <string name="full_txt">Full</string>
+    <string name="gcm_defaultSenderId" translatable="false">984578399999</string>
+    <string name="get_animation_notifications_on_your_notch">Get animation notifications on your notch</string>
+    <string name="get_started">Get Started</string>
+    <string name="go_to_settings">GO TO SETTINGS</string>
+    <string name="google_api_key" translatable="false">AIzaSyB3D5r5iwVPk8SX_eR36bp-UQSGKfQis4k</string>
+    <string name="google_app_id" translatable="false">1:984578399999:android:d247242110f8706988f6ca</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB3D5r5iwVPk8SX_eR36bp-UQSGKfQis4k</string>
+    <string name="google_storage_bucket" translatable="false">dynamic-10d0a.firebasestorage.app</string>
+    <string name="headset">Headset</string>
+    <string name="headset_connect_animation">Headset connect animation</string>
+    <string name="height">Height</string>
+    <string name="hide_in_landscape_mode">Hide in Landscape Mode</string>
+    <string name="home">Home</string>
+    <string name="horizontal">Horizontal (X)</string>
+    <string name="incoming_calls_directly_on_your_notch">Incoming calls directly on your notch</string>
+    <string name="keep_notch_visible">Keep Notch Visible</string>
+    <string name="keyboard_picker">Keyboard Picker</string>
+    <string name="language" translatable="false">Language</string>
+    <string name="long_click">Long Click</string>
+    <string name="long_click_to_hide_the_notch_content_preview">#Long click to hide the notch content preview</string>
+    <string name="long_click_to_open_app">#Long click to open app</string>
+    <string name="long_click_to_preview_the_notch_content">#Long click to preview the notch content</string>
+    <string name="minute_1">1 Minute</string>
+    <string name="minute_10">10 Minute</string>
+    <string name="minute_5">5 Minute</string>
+    <string name="modules">Modules</string>
+    <string name="navigation">Navigation</string>
+    <string name="navigation_helper_with_google_map">Navigation helper with google map</string>
+    <string name="neon">Neon</string>
+    <string name="neon_color">Neon Color</string>
+    <string name="next">Next</string>
+    <string name="no_data_is_collected_or_shared_using_the_accessibility_service_api">No data is collected or shared using the AccessibilityService API</string>
+    <string name="normal_click">Normal Click</string>
+    <string name="normal_click_to_hide_the_notch_content_preview">#Normal click to hide the notch content preview</string>
+    <string name="normal_click_to_open_app">#Normal click to open app</string>
+    <string name="normal_click_to_preview_the_notch_content">#Normal click to preview the notch content</string>
+    <string name="notch_click_code">Notch Click Mode</string>
+    <string name="notch_position">Notch Position</string>
+    <string name="notch_size">Notch Size</string>
+    <string name="notch_style">Notch Style</string>
+    <string name="notification_access">Notification Access</string>
+    <string name="notification_animation">Notification Animation</string>
+    <string name="notifications">Notifications</string>
+    <string name="ok">Ok</string>
+    <string name="open_system_shade">Open system shade</string>
+    <string name="our_best_we_can_get">Our best we can get</string>
+    <string name="percent">%%</string>
+    <string name="permissions_required">Permissions Required</string>
+    <string name="permissions_required_details">This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions.</string>
+    <string name="please_feedback">Please feedback!</string>
+    <string name="please_select_language">Please select language</string>
+    <string name="project_id" translatable="false">dynamic-10d0a</string>
+    <string name="quick_settings_cellular_detail_title">Mobile data</string>
+    <string name="quick_settings_dnd_alarms_label">Alarms only</string>
+    <string name="quick_settings_dnd_label">Do Not Disturb</string>
+    <string name="quick_settings_dnd_none_label">Total silence</string>
+    <string name="quick_settings_dnd_priority_label">Priority only</string>
+    <string name="quick_settings_flashlight_label">Flashlight</string>
+    <string name="quick_settings_location_label">Location</string>
+    <string name="quick_settings_nfc_label">NFC</string>
+    <string name="quick_settings_night_display_label">Night Light</string>
+    <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
+    <string name="quick_settings_tiles_default">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane,location,brightness,hotspot,saver,cast,dark,night,ringer,nfc,stock,sim</string>
+    <string name="quick_settings_tiles_more">,ss,rec,sync,screen,timeout,lock,clock,camera,keyboard</string>
+    <string name="quick_settings_ui_mode_night_label">Dark mode,Dark theme</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="reply">Reply</string>
+    <string name="reset_position">Reset Position</string>
+    <string name="reset_size">Reset Size</string>
+    <string name="ringing_state">Ringing State</string>
+    <string name="ringing_state_change_animation">Ringing state change animation</string>
+    <string name="screen_lock">Screen Lock</string>
+    <string name="screen_record_name">Screen Recording</string>
+    <string name="screen_time">Screen time</string>
+    <string name="screen_time_no_permission">No permission</string>
+    <string name="screenshot">Screenshot</string>
+    <string name="seconds_10">10 Seconds</string>
+    <string name="seconds_3">3 Seconds</string>
+    <string name="seconds_30">30 Seconds</string>
+    <string name="shake">Shake</string>
+    <string name="silent_txt">Silent</string>
+    <string name="sound">Sound</string>
+    <string name="start">Start</string>
+    <string name="swipe_button_to_unlock_notch">Swipe button to unlock notch</string>
+    <string name="switch_sim">Switch data SIM</string>
+    <string name="test_text">New email Good long text is good to go here is the thing to test with it</string>
+    <string name="text_off">Off</string>
+    <string name="text_on">On</string>
+    <string name="text_rate_content">We work super hard to make app better for you,  and would love to know: how would you rate our app</string>
+    <string name="text_rate_now">Rate Now</string>
+    <string name="text_thank_you">Thank you for using</string>
+    <string name="thank_for_your_feedback">Thank for your feedback!</string>
+    <string name="thank_you">Thank you</string>
+    <string name="the_app_uses_the_accessibility_service_to_display_the_notch_view">The app uses the AccessibilityService to display the notch view</string>
+    <string name="toast_saved_failed">Sorry! Failed to save wallpaper</string>
+    <string name="toast_wallpaper_set">Wallpaper updated!</string>
+    <string name="toast_wallpaper_set_failed">Sorry! Unable to set wallpaper</string>
+    <string name="txt_all">All</string>
+    <string name="txt_app">App</string>
+    <string name="txt_battery_charge">Battery Charge</string>
+    <string name="txt_better_notifications">Better Notifications</string>
+    <string name="txt_bluetooth_connect">Bluetooth Connect</string>
+    <string name="txt_call_timer">Call Timer</string>
+    <string name="txt_calls">Calls</string>
+    <string name="txt_continue">Continue</string>
+    <string name="txt_decorate_your_front_camera_support_you_with_useful_functions"><![CDATA[Decorate your front camera & support you with useful functions]]></string>
+    <string name="txt_denie">To use this feature, you need permission</string>
+    <string name="txt_display_a_battery_charging_animation_when_plugged">Display a battery charging animation when plugged</string>
+    <string name="txt_display_a_timer_when_in_call">Display a timer when in call</string>
+    <string name="txt_display_and_control_listening_music_on_your_notch">Display and control listening music on your notch</string>
+    <string name="txt_display_app_notifications_amp_make_actions_by_your_notch"><![CDATA[Display app notifications & make actions by your notch]]></string>
+    <string name="txt_display_navigation_directions_in_your_notch_when_using_google_map_navigation">Display navigation directions in your notch when using google map navigation</string>
+    <string name="txt_display_ringing_mode_change_on_your_notch">Display ringing mode change on your notch</string>
+    <string name="txt_do_you_want_to_quit_the_app">Do you want to quit app?</string>
+    <string name="txt_done">Done</string>
+    <string name="txt_easy_access_to_quick_action_provide_better_experience_for_your_phone">Easy access to quick action, provide better experience for your phone</string>
+    <string name="txt_easy_to_see_the_notifications_and_do_the_actions_on_dynamic_island_view">Easy to see the notifications and do the actions on Dynamic Island view.</string>
+    <string name="txt_easy_use">Easy to Use</string>
+    <string name="txt_headset">Headset</string>
+    <string name="txt_headset_connect_animation">Headset connect animation</string>
+    <string name="txt_hide_default">Hide Default</string>
+    <string name="txt_hide_default_call_app_notification_may_not_work_on_some_devices">Hide default call app notification (may not work on some devices)</string>
+    <string name="txt_icon">Icon</string>
+    <string name="txt_incoming_call">Incoming Call</string>
+    <string name="txt_language">Language</string>
+    <string name="txt_more_app">More App</string>
+    <string name="txt_music">Music</string>
+    <string name="txt_navigation">Navigation</string>
+    <string name="txt_notification">Notification</string>
+    <string name="txt_quick_ations">Quick Ations</string>
+    <string name="txt_quick_display">Quick display</string>
+    <string name="txt_quit">Quit</string>
+    <string name="txt_rate_us">Rate us</string>
+    <string name="txt_real_time_updates_provide_the_latest_notification">Real-time updates provide the latest notification</string>
+    <string name="txt_request_record_permission">"Bluetooth is the permission required for the app to work"</string>
+    <string name="txt_ringing_state">Ringing State</string>
+    <string name="txt_rotate_cover">Rotate Cover</string>
+    <string name="txt_select_apps">Select Apps</string>
+    <string name="txt_settings">Settings</string>
+    <string name="txt_share_app">Share App</string>
+    <string name="txt_show_action">Show action</string>
+    <string name="txt_show_incoming_calls_directly_on_your_notch">Show incoming calls directly on your notch</string>
+    <string name="txt_show_on_lock_screen">Show on lock screen</string>
+    <string name="txt_skip">Skip</string>
+    <string name="txt_thanks_you_for_rating">Thanks you for rating!</string>
+    <string name="txt_turn_on">Turn On</string>
+    <string name="used_to_display_all_the_devices_connected_through_bluetooth_on_the_notch">Used to display all the devices connected through Bluetooth on the notch</string>
+    <string name="used_to_display_the_notch_over_other_apps">This app needs to be activated in Accessibility to set up and display the Dynamic Island on the top of the screen for notifications.. No data is collected or shared using the Accessibility Service</string>
+    <string name="used_to_forward_listening_music_and_notifications_to_the_notch">You need to grant notification permission to display and manipulate notifications on Dynamic Island </string>
+    <string name="vertical">Vertical (Y)</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="vibration">Vibration</string>
+    <string name="visibility">Visibility</string>
+    <string name="when_nothing_to_show">When nothing to show</string>
+    <string name="width">Width</string>
+    <string name="you_can_change_the_style">You can change the style, adjust the size and position of the notch as you need</string>
+    <style name="AlertDialogCustom">
+        <item name="colorPrimary">@color/gntGreen</item>
+    </style>
+    <style name="AppTheme.Ads2" parent="@style/AdsAppTheme">
+        <item name="android:textSize">11.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:paddingLeft">3.0dip</item>
+        <item name="android:paddingRight">6.0dip</item>
+        <item name="android:paddingBottom">1.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">15.0px</item>
+        <item name="android:minHeight">15.0px</item>
+        <item name="android:text">Ad</item>
+    </style>
+    <style name="BaseDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="RadioButtonMain" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#454545</item>
+        <item name="colorControlActivated">#454545</item>
+    </style>
+    <style name="SCBSwitch" parent="Theme.AppCompat.Light">
+        
+        <item name="colorControlActivated">@color/color_9682FF</item>
+
+        
+        <item name="colorSwitchThumbNormal">@color/color_DADADA
+        </item>
+
+        
+        <item name="android:colorForegroundInverse">@color/color_DADADA</item>
+        <item name="android:colorForeground">@color/color_809682FF</item>
+    </style>
+    <style name="ShapeAppearanceOverlay"/>
+    <style name="ShapeAppearanceOverlay.Avatar">
+        <item name="cornerFamily">@null</item>
+        <item name="cornerSize">10dp</item>
+    </style>
+    <style name="StyleBottomSheetDialog" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="TextViewMediumActive" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">12dp</item>
+        <item name="fontFamily">@font/fira_sans_medium</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="TextViewMediumInActive" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">12dp</item>
+        <item name="fontFamily">@font/fira_sans_medium</item>
+        <item name="android:textColor">@color/color_777777</item>
+    </style>
+    <style name="TextViewRegular" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">10dp</item>
+        <item name="fontFamily">@font/fira_sans_regular</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="TextViewSemiBold" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">16dp</item>
+        <item name="fontFamily">@font/fira_sans_semibold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Theme.Main" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:colorBackgroundCacheHint">@color/white</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:animateLayoutChanges">false</item>
+        <item name="android:windowBackground">#F4F4F4</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        
+    </style>
+    <style name="ThemeBottomSheetDialog" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/StyleBottomSheetDialog</item>
+    </style>
+    <style name="ThemeDialog" parent="android:Theme.Holo.Dialog">
+        <item name="android:windowMinWidthMajor">85%</item>
+        <item name="android:windowMinWidthMinor">85%</item>
+        <item name="android:backgroundDimAmount">0.5</item>
+    </style>
+    <style name="ThemeDialogFullscreen" parent="android:Theme.Holo.Dialog">
+        <item name="android:backgroundDimAmount">0.5</item>
+        <item name="android:windowMinWidthMajor">100%</item>
+    </style>
+    <style name="conner5dp">
+        <item name="cornerSize">5dp</item>
+    </style>
+    <style name="roundConner">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

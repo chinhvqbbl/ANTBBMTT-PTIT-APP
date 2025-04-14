@@ -1,0 +1,958 @@
+[
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_select_app.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_select_app.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_call_receiver.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_call_receiver.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_on.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/on.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_img_rate.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/img_rate.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/font_fira_sans_medium.ttf.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/font/fira_sans_medium.ttf"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_battery_00.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/battery_00.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_arrow_up.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/arrow_up.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_adx_border_cta_native_language.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/adx_border_cta_native_language.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_activity_language.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_language.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_text_reset_inactive.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_text_reset_inactive.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_apps_list_item_entry.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/apps_list_item_entry.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_img_rate_4.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/img_rate_4.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_dialog_permission_required.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/dialog_permission_required.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_tick_visibility.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_tick_visibility.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_airbug_01.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/airbug_01.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_battery_01.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/battery_01.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_dynamic_bunny.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_dynamic_bunny.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_status_bar.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/status_bar.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_star_filled.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/star_filled.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/font_fira_sans_semibold.ttf.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/font/fira_sans_semibold.ttf"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_btn_quit.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_btn_quit.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_vertical_top_inactive.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_vertical_top_inactive.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_russian.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_russian.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_border_item_language_un_select.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/border_item_language_un_select.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_notification_call_items.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/notification_call_items.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_back.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_onboarding_1.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_onboarding_1.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_number_1.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_number_1.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_battery_10.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/battery_10.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_tick_apply.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_tick_apply.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_airbug_10.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/airbug_10.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_activity_setting.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_view_un_select.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_view_un_select.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_activity_modul_details.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_modul_details.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_uncheck_new.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_uncheck_new.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_activity_splash.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/raw_loading_blue3.json.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/raw/loading_blue3.json"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_arrow_down.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/arrow_down.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_german.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_german.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/raw_wave_call01.json.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/raw/wave_call01.json"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_airbug_03.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/airbug_03.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_grid_item_photo.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/grid_item_photo.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_headset.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_headset.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_indonesian.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_indonesian.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_navigation.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_navigation.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_filipino.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_filipino.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_activity_main.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_activity_onboarding.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_horizontal_right_active.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_horizontal_right_active.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_button_ok.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/button_ok.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_notification_min_row_item.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/notification_min_row_item.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_airbug_00.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/airbug_00.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_notification_list_sub_item.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/notification_list_sub_item.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_battery_03.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/battery_03.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_china.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_china.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_dynamic_oval.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_dynamic_oval.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_thumb_selector.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/thumb_selector.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_turkish.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_turkish.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_missed_call.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/missed_call.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_notch_style.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_notch_style.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_rounded_white_dialog.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/rounded_white_dialog.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_battery_04.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/battery_04.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_rounded_rectangle_notification.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/rounded_rectangle_notification.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_music.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_music.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_setting_layout.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_setting_layout.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_airbug_04.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/airbug_04.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_horizontal_right_inactive.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_horizontal_right_inactive.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_dialog_keep_notch_visible.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/dialog_keep_notch_visible.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_onboarding_2.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_onboarding_2.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_android_icon.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/android_icon.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_vibration.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_vibration.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_checkbox.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_checkbox.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_notifications.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_module_active.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_module_active.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_item_on_boarding.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/item_on_boarding.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_border_cta_native_on_permission.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/border_cta_native_on_permission.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_battery_05.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/battery_05.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_dialog_exit.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/dialog_exit.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_checked_new.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_checked_new.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_calls.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_calls.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_swedish.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_swedish.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_item_language.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/item_language.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_airbug_05.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/airbug_05.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_home_active.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_home_active.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_conner_home.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_conner_home.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_onboarding_4.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_onboarding_4.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_done.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_done.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_un_select_app.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_un_select_app.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_phone_circle_red.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/phone_circle_red.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_english.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_english.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_text_cancel.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_text_cancel.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_text_agree.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_text_agree.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_home_inactive.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_home_inactive.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_configs_active.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_configs_active.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_more_app.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_more_app.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_dialog_change_style.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_dialog_change_style.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_module_inactive.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_module_inactive.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_portugal.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_portugal.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_notification_icon_item.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/notification_icon_item.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_img_rate_2.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/img_rate_2.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_switch_dynamic.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_switch_dynamic.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_croatia.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_croatia.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_dutch.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_dutch.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_ads_shimmer_native_permission.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/ads_shimmer_native_permission.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_star_here.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/star_here.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_czech_republic.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_czech_republic.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_activity_accessibility_example.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_accessibility_example.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_battery_07.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/battery_07.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_alert.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/alert.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_airbug_07.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/airbug_07.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_button_app_transparent.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_button_app_transparent.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_share.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_earbuds.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/earbuds.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_border_cta_native_on_boarding.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/border_cta_native_on_boarding.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_info.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/info.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_korean.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_korean.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/raw_call_anim.json.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/raw/call_anim.json"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_airbug_08.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/airbug_08.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_default_blue.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/default_blue.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/xml_accessibility_service.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/xml/accessibility_service.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_onboarding_3.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_onboarding_3.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_battery_08.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/battery_08.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_polish.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_polish.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_battery_09.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/battery_09.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_phone_circle_green.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/phone_circle_green.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_airbug_09.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/airbug_09.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_layout_native_on_boarding.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/layout_native_on_boarding.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_item_app_selected.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/item_app_selected.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_dialog.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_dialog.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/anim_fade_in.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_spanish.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_spanish.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_fragment_home.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/font_fira_sans_regular.ttf.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/font/fira_sans_regular.ttf"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_airbug_06.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/airbug_06.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_number_4.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_number_4.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_profile_icon.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/profile_icon.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_clear.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_clear.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_activity_select_app.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_select_app.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_duration.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_duration.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_layout_native_language.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/layout_native_language.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_done_language.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_done_language.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_bright.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_bright.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_layout_native_exit.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/layout_native_exit.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_view_select.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_view_select.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_permission.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_permission.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_battery_06.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/battery_06.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_start_empty.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/start_empty.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_item_module.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_item_module.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_bg_call.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_bg_call.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/raw_settings.json.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/raw/settings.json"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_silent.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/silent.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_gradient_get_started.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_gradient_get_started.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_item_language.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_item_language.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_progess_bar_bg.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/progess_bar_bg.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_vietnamese.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_vietnamese.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_vertical_top_active.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_vertical_top_active.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_ringing_state.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_ringing_state.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_send_reply_iv.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/send_reply_iv.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/raw_loading2.json.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/raw/loading2.json"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_serbian.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_serbian.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_item_visibility.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/item_visibility.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_dialog_notification.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/dialog_notification.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_france.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_france.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_fragment_configs.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/fragment_configs.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_settings.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_notification_action_item.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/notification_action_item.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_dialog_disclosure.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_dialog_disclosure.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_italian.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_italian.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_number_2.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_number_2.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_img_rate_5.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/img_rate_5.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_language.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_language.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_text_apply_active.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_text_apply_active.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_horizontal_left_active.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_horizontal_left_active.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_japanese.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_japanese.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_text_custom.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_text_custom.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_fragment_module.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/fragment_module.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_horizontal_left_inactive.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_horizontal_left_inactive.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_next_right.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_next_right.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_number_3.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_number_3.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_vertical_bottom_active.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_vertical_bottom_active.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_silent.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_silent.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_hindi.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_hindi.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_display_notch_tutor.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_display_notch_tutor.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_dialog_rate_app.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/dialog_rate_app.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_layout_native_permission.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/layout_native_permission.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_ads_shimmer_native_large.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/ads_shimmer_native_large.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/raw_anim_gif_hand_json.json.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/raw/anim_gif_hand_json.json"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_activity_permission.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_permission.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_battery_02.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/battery_02.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_tutor.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_tutor.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_img_rate_3.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/img_rate_3.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_shimmer_ads_small.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/shimmer_ads_small.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/anim_fade_out.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_permission_success.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_permission_success.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_adx_border_cta_native_exit.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/adx_border_cta_native_exit.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_airbug_02.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/airbug_02.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_adx_bg_native_language.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/adx_bg_native_language.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_battery_change.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_battery_change.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_notification_list_items.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/notification_list_items.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_item_modules.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/item_modules.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_reply_bg.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/reply_bg.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_vibration_icon.png.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/vibration_icon.png"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_track_selector.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/track_selector.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_btn_cancel.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_btn_cancel.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_ads_shimmer_native_small.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/ads_shimmer_native_small.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_sound.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_sound.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_text_apply_inactive.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_text_apply_inactive.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_img_rate_1.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/img_rate_1.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/layout_dialog_notch_click.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/dialog_notch_click.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_configs_inactive.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_configs_inactive.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/raw_music_wave.json.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/raw/music_wave.json"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/raw_loading_app.json.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/raw/loading_app.json"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_background_item.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_background_item.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_app_selected.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_app_selected.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_vertical_bottom_inactive.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_vertical_bottom_inactive.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_rounded_bottom_notification.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/rounded_bottom_notification.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_off.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/off.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_bg_configs.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/bg_configs.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-merged_res-114:/drawable_ic_malay.xml.flat",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/drawable/ic_malay.xml"
+    }
+]

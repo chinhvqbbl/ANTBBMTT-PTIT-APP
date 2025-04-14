@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/activity_setting.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/item_visibility.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/item_visibility.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/fragment_home.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/dialog_rate_app.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/dialog_rate_app.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/shimmer_ads_small.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/shimmer_ads_small.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/ads_shimmer_native_large.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/ads_shimmer_native_large.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/notification_icon_item.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/notification_icon_item.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/activity_permission.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_permission.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/dialog_notification.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/dialog_notification.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/fragment_module.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/fragment_module.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/item_app_selected.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/item_app_selected.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/activity_modul_details.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_modul_details.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/item_language.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/item_language.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/activity_splash.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/activity_language.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_language.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/item_modules.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/item_modules.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/fragment_configs.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/fragment_configs.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/dialog_keep_notch_visible.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/dialog_keep_notch_visible.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/dialog_notch_click.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/dialog_notch_click.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/activity_select_app.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_select_app.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/dialog_permission_required.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/dialog_permission_required.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/ads_shimmer_native_permission.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/ads_shimmer_native_permission.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/item_on_boarding.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/item_on_boarding.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/activity_onboarding.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/activity_main.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.tools.edge.dynamic.island.app-mergeDebugResources-113:/layout/dialog_exit.xml",
+        "source": "com.tools.edge.dynamic.island.app-main-116:/layout/dialog_exit.xml"
+    }
+]

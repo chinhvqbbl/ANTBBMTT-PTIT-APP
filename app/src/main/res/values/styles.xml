@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="roundConner">
+        <item name="cornerSize">50%</item>
+    </style>
+
+
+    <style name="conner5dp">
+        <item name="cornerSize">5dp</item>
+    </style>
+
+    <style name="RadioButtonMain" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#454545</item>
+        <item name="colorControlActivated">#454545</item>
+    </style>
+</resources>

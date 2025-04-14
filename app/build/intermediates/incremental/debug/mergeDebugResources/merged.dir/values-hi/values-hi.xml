@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d नई सूचनाएं</item>
+    <item quantity="other">%d नई सूचनाएं</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"होम पेज पर जाएं"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"वापस जाएं"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ज़्यादा विकल्प"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"हो गया"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"कोई ऐप्लिकेशन चुनें"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"बंद"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"चालू"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"खोजें…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"क्‍वेरी हटाएं"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"सर्च क्वेरी"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"बोलकर खोजें"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"इससे शेयर करें:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> से शेयर करें"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"छोटा करें"</string>
+    <string name="accessibility">सरल उपयोग</string>
+    <string name="accessibility_desc">यह सेवा सूचनाओं के लिए स्क्रीन के शीर्ष पर ओवरले विंडो के उपयोग की अनुमति देती है।\n\nकोई भी डेटा डिवाइस पर संग्रहीत नहीं किया जाता है या इंटरनेट पर नहीं भेजा जाता है।</string>
+    <string name="action_cancel">रद्द करें</string>
+    <string name="agree">सहमत</string>
+    <string name="airpods">AirPods</string>
+    <string name="always">हमेशा</string>
+    <string name="animation">एनिमेशन</string>
+    <string name="app_name" translatable="false">Dynamic Island: Edge Lighting</string>
+    <string name="applied">लागू</string>
+    <string name="apply">आवेदन करना</string>
+    <string name="are_you_sure_you_want_to_exit">क्या आप सचमुच बाहर निकलना चाहते हैं\?</string>
+    <string name="auto_adjust_notch">ऑटो एडजस्ट नॉच</string>
+    <string name="backgroundImageName">कंप्यूटर_बीजी_इमेज</string>
+    <string name="battery_Charge">बैटरी चार्ज</string>
+    <string name="battery_charging_animation">बैटरी चार्जिंग एनीमेशन</string>
+    <string name="battery_optimization">बैटरी अनुकूलन</string>
+    <string name="bluetooth_permission">ब्लूटूथ अनुमति नहीं दी गई!</string>
+    <string name="bottomsheet_action_collapse">बॉटम शीट को छोटा करें</string>
+    <string name="bottomsheet_action_expand">बॉटम शीट को बड़ा करें</string>
+    <string name="bottomsheet_action_expand_halfway">पूरी तरह बड़ा करें</string>
+    <string name="bottomsheet_drag_handle_clicked">खींचकर छोड़ने वाले हैंडल पर दो बार टैप किया गया</string>
+    <string name="bottomsheet_drag_handle_content_description">खींचकर छोड़ने वाला हैंडल</string>
+    <string name="brightness_mode">चमक</string>
+    <string name="buy_now">अभी खरीदें</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"जवाब दें"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"वीडियो"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"अस्वीकार करें"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"कॉल काटें"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"आने वाला (इनकमिंग) कॉल"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"पहले से जारी कॉल"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"इनकमिंग कॉल को स्क्रीन किया जा रहा है"</string>
+    <string name="calls">कॉल</string>
+    <string name="camera">कैमरा</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="character_counter_content_description">%2$d वर्णों में से %1$d वर्ण दर्ज किए गए</string>
+    <string name="character_counter_overflowed_content_description">अभी %1$d वर्ण हैं जबकि %2$d से ज़्यादा नहीं होने चाहिए</string>
+    <string name="charging_txt">चार्ज</string>
+    <string name="clear_text_end_icon_content_description">टेक्स्ट मिटाएं</string>
+    <string name="click_mode">मोड पर क्लिक करें</string>
+    <string name="clock">घड़ी</string>
+    <string name="close">बंद करना</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> पर जाएँ और ऊपर दिया गया कोड डालें.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">चित्र डाउनलोड करते समय अनपेक्षित त्रुटि हुई.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">WebView लॉग इन के लिए इंटरनेट अनुमति आवश्यक है</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">AndroidManifest गलती</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">पसंद किया</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">लाइक करें</string>
+    <string gender="unknown" name="com_facebook_loading">लोड हो रहा है...</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">कैंसल करें</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">लॉग इन</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Facebook के साथ जारी रखें</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">Facebook से लॉग इन करें</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">लॉग आउट करें</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">लॉग आउट करें</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">इस रूप में लॉग इन हैं: %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">Facebook का उपयोग करके लॉग इन किया है</string>
+    <string gender="unknown" name="com_facebook_send_button_text">भेजें</string>
+    <string gender="unknown" name="com_facebook_share_button_text">शेयर करें</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">अपने खाते से कनेक्ट करने के लिए, अपने मोबाइल डिवाइस पर Facebook एप्लिकेशन खोलें और सूचनाएँ जाँचें.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- या -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">आप नहीं हैं?</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">%1$s के रूप में जारी रखें</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">लॉग इन कन्फ़र्म करें</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">नियंत्रण आपके पास है - चुनें कि आप एप्लिकेशन के साथ कौन सी जानकारी साझा करना चाहते हैं.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">चालू करें</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">जब तक आप Google Play सेवाएं चालू नहीं करते, %1$s काम नहीं करेगा.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play सेवाएं चालू करें</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">इंस्टॉल करें</string>
+    <string name="common_google_play_services_install_text">%1$s उन Google Play सेवाओं के बिना नहीं चलेगा जो आपके डिवाइस में उपलब्ध नहीं हैं.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play सेवाएं इंस्टॉल करें</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play सेवाएं उपलब्ध हैं</string>
+    <string name="common_google_play_services_notification_ticker">Google Play सेवाओं से जुड़ी गड़बड़ी</string>
+    <string name="common_google_play_services_unknown_issue">%1$s को Google Play सेवाओं के साथ समस्या आ रही है. कृपया फिर से कोशिश करें.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s उन Google Play सेवाओं के बिना नहीं चलेगा, जो आपके डिवाइस पर काम नहीं करती हैं.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">अपडेट करें</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s तब तक नहीं चलेगा जब तक आप Google Play सेवाओं को अपडेट नहीं करते.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play सेवाओं को अपडेट करें</string>
+    <string name="common_google_play_services_updating_text">%1$s उन Google Play सेवाओं के बिना नहीं चलेगा जो अभी अपडेट हो रही हैं.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play सेवाओं के नए वर्शन की ज़रूरत है. यह जल्द ही अपने आप अपडेट हो जाएगा.</string>
+    <string name="common_open_on_phone">फ़ोन पर खोलें</string>
+    <string name="common_signin_button_text">साइन इन करें</string>
+    <string name="common_signin_button_text_long">Google के ज़रिए साइन इन करें</string>
+    <string name="configs">कॉन्फ़िगरेशन</string>
+    <string msgid="6083905920877235314" name="copy">"कॉपी करें"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"लिंक क्लिपबोर्ड पर कॉपी किया गया"</string>
+    <string name="custom">रिवाज़</string>
+    <string name="data_saver">डेटा सेवर</string>
+    <string name="disable_battery_optimization_if_your_notch_disappear_automatically_after_some_times">यदि आपका नॉच कुछ समय बाद अपने आप गायब हो जाता है तो बैटरी ऑप्टिमाइज़ेशन अक्षम करें</string>
+    <string name="disclosure">खुलासा</string>
+    <string name="display_listening_music_on_your_notch">अपने नॉच पर सुनने योग्य संगीत प्रदर्शित करें</string>
+    <string name="display_notch">प्रदर्शन पायदान</string>
+    <string name="done">हो गया!</string>
+    <string name="dynamic_island" translatable="false">Dynamic Island</string>
+    <string name="enable_location">स्थान सक्षम करें</string>
+    <string name="error_camera_app_not_found">कैमरा ऐप नहीं मिला</string>
+    <string name="error_failed_pick_gallery_image">गैलरी की तस्वीर लेने में विफल</string>
+    <string name="error_failed_to_compress_image">छवि को संपीड़ित करने में विफल</string>
+    <string name="error_failed_to_create_camera_image_file">कैमरा चित्र बनाने में विफल</string>
+    <string name="error_failed_to_crop_image">चित्र को काटना में विफल</string>
+    <string name="error_icon_content_description">गड़बड़ी</string>
+    <string name="error_task_cancelled">कार्य रद्द कर दिया गया</string>
+    <string name="exit">बाहर निकलना</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"बेहतर सेटिंग"</string>
+    <string name="exposed_dropdown_menu_content_description">ड्रॉपडाउन मेन्यू दिखाएं</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"लिंक कॉपी करें"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"ब्राउज़र में खोलें"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"लिंक शेयर करें"</string>
+    <string name="force_your_notch_to_be_centered_in_split_mode">अपने नॉच को स्प्लिट मोड में केन्द्रित करने के लिए बाध्य करें</string>
+    <string name="full_txt">भरा हुआ</string>
+    <string name="get_animation_notifications_on_your_notch">अपने नॉच पर एनीमेशन सूचनाएं प्राप्त करें</string>
+    <string name="get_started">शुरू हो जाओ</string>
+    <string name="go_to_settings">सेटिंग्स में जाओ</string>
+    <string name="headset">हेडसेट</string>
+    <string name="headset_connect_animation">हेडसेट कनेक्ट एनीमेशन</string>
+    <string name="height">ऊंचाई</string>
+    <string name="hide_in_landscape_mode">लैंडस्केप मोड में छुपें</string>
+    <string name="home">घर</string>
+    <string name="horizontal">क्षैतिज (एक्स)</string>
+    <string name="icon_content_description">डायलॉग का आइकॉन</string>
+    <string name="incoming_calls_directly_on_your_notch">इनकमिंग कॉल सीधे आपके नॉच पर</string>
+    <string name="item_view_role_description">टैब</string>
+    <string name="keep_notch_visible">नॉच को दृश्यमान रखें</string>
+    <string name="keyboard_picker">कीबोर्ड पिकर</string>
+    <string name="language" translatable="false">Language</string>
+    <string name="loading_ads">विज्ञापन लोड हो रहा है…</string>
+    <string name="long_click">लंबा क्लिक करें</string>
+    <string name="long_click_to_hide_the_notch_content_preview">#नॉच सामग्री पूर्वावलोकन को छिपाने के लिए लंबे समय तक क्लिक करें</string>
+    <string name="long_click_to_open_app">#ऐप खोलने के लिए लॉन्ग क्लिक करें</string>
+    <string name="long_click_to_preview_the_notch_content">#नॉच सामग्री का पूर्वावलोकन करने के लिए लंबे समय तक क्लिक करें</string>
+    <string name="material_clock_toggle_content_description">AM या PM चुनें</string>
+    <string name="material_hour_24h_suffix">%1$s घंटे</string>
+    <string name="material_hour_selection">घंटा चुनें</string>
+    <string name="material_hour_suffix">%1$s बजे</string>
+    <string name="material_minute_selection">मिनट चुनें</string>
+    <string name="material_minute_suffix">%1$s मिनट</string>
+    <string name="material_timepicker_am">पूर्वाह्न</string>
+    <string name="material_timepicker_clock_mode_description">समय इनपुट के लिए घड़ी मोड पर जाएं.</string>
+    <string name="material_timepicker_hour">घंटा</string>
+    <string name="material_timepicker_minute">मिनट</string>
+    <string name="material_timepicker_pm">अपराह्न</string>
+    <string name="material_timepicker_select_time">समय चुनें</string>
+    <string name="material_timepicker_text_input_mode_description">समय इनपुट के लिए लेख इनपुट मोड पर जाएं.</string>
+    <string name="minute_1">1 मिनट</string>
+    <string name="minute_10">10 मिनट</string>
+    <string name="minute_5">5 मिनट</string>
+    <string name="modules">मॉड्यूल</string>
+    <string name="mtrl_badge_numberless_content_description">नई सूचना</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s हटाएं</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d से ज़्यादा नई सूचनाएं</string>
+    <string name="mtrl_picker_a11y_next_month">अगले महीने पर जाएं</string>
+    <string name="mtrl_picker_a11y_prev_month">पिछले महीने पर जाएं</string>
+    <string name="mtrl_picker_announce_current_selection">फ़िलहाल, यह चुना गया है: %1$s</string>
+    <string name="mtrl_picker_cancel">रद्द करें</string>
+    <string name="mtrl_picker_confirm">ठीक है</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">तारीख चुनें</string>
+    <string name="mtrl_picker_date_header_unselected">चुनी गई तारीख</string>
+    <string name="mtrl_picker_day_of_week_column_header">दिनों का कॉलम: %1$s</string>
+    <string name="mtrl_picker_invalid_format">गलत फ़ॉर्मैट.</string>
+    <string name="mtrl_picker_invalid_format_example">उदाहरण: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">%1$s का इस्तेमाल करें</string>
+    <string name="mtrl_picker_invalid_range">तारीखों की अमान्य सीमा.</string>
+    <string name="mtrl_picker_navigate_to_year_description">साल %1$s पर जाएं</string>
+    <string name="mtrl_picker_out_of_range">तारीख की मान्य सीमा से बाहर: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">शुरू होने की तारीख – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – खत्म होने की तारीख</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">रेंज चुनें</string>
+    <string name="mtrl_picker_range_header_unselected">शुरू होने की तारीख – खत्म होने की तारीख</string>
+    <string name="mtrl_picker_save">सेव करें</string>
+    <string name="mtrl_picker_text_input_date_hint">तारीख</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">खत्म होने की तारीख</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">शुरू होने की तारीख</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">कैलेंडर के इनपुट मोड पर स्विच करें</string>
+    <string name="mtrl_picker_toggle_to_day_selection">\'दिन चुनना\' पर स्विच करने के लिए टैप करें</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">टेक्स्ट के इनपुट मोड पर स्विच करें</string>
+    <string name="mtrl_picker_toggle_to_year_selection">\'साल चुनना\' पर स्विच करने के लिए टैप करें</string>
+    <string name="mtrl_timepicker_cancel">रद्द करें</string>
+    <string name="mtrl_timepicker_confirm">ठीक है</string>
+    <string name="native_body">मुख्य हिस्सा</string>
+    <string name="native_headline">हेडलाइन</string>
+    <string name="native_media_view">मीडिया व्यू</string>
+    <string name="navigation">मार्गदर्शन</string>
+    <string name="navigation_helper_with_google_map">गूगल मानचित्र के साथ नेविगेशन सहायक</string>
+    <string name="neon">नियोन</string>
+    <string name="neon_color">नियोन का रंग</string>
+    <string name="next">अगला</string>
+    <string name="no_data_is_collected_or_shared_using_the_accessibility_service_api">AccessibilityService API का उपयोग करके कोई डेटा एकत्र या साझा नहीं किया जाता है</string>
+    <string name="normal_click">सामान्य क्लिक</string>
+    <string name="normal_click_to_hide_the_notch_content_preview">#नॉच सामग्री पूर्वावलोकन को छिपाने के लिए सामान्य क्लिक करें</string>
+    <string name="normal_click_to_open_app"># ऐप खोलने के लिए सामान्य क्लिक करें</string>
+    <string name="normal_click_to_preview_the_notch_content"># नॉच सामग्री का पूर्वावलोकन करने के लिए सामान्य क्लिक करें</string>
+    <string msgid="6573031135582639649" name="not_set">"सेट नहीं है"</string>
+    <string name="notch_click_code">नॉच क्लिक मोड</string>
+    <string name="notch_position">पायदान स्थिति</string>
+    <string name="notch_size">पायदान का आकार</string>
+    <string name="notch_style">पायदान शैली</string>
+    <string name="notification_access">अधिसूचना पहुंच</string>
+    <string name="notification_animation">अधिसूचना एनीमेशन</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="notifications_permission_confirm">अनुमति दें</string>
+    <string name="notifications_permission_decline">अनुमति न दें</string>
+    <string name="notifications_permission_title">ऐप्लिकेशन को सूचनाएं भेजने की अनुमति देनी है?</string>
+    <string name="offline_dialog_image_description">आइकॉन</string>
+    <string name="offline_dialog_text">दिलचस्पी दिखाने के लिए धन्यवाद.\nआपके फिर से ऑनलाइन आने पर, हम और जानकारी शेयर करेंगे.</string>
+    <string name="offline_notification_text">शीर्षक</string>
+    <string name="offline_notification_title">आप फिर से ऑनलाइन हैं! चलिए, बातचीत वहीं से शुरू करते हैं जहां हमने पिछली बार छोड़ी थी</string>
+    <string name="offline_notification_title_with_advertiser">आप फिर से ऑनलाइन हैं! %s के बारे में ज़्यादा जानें</string>
+    <string name="offline_opt_in_confirm">ठीक है</string>
+    <string name="offline_opt_in_decline">रहने दें</string>
+    <string name="offline_opt_in_message">हम आपको एक सूचना भेजेंगे जिसमें विज्ञापन देने वाले की साइट का लिंक होगा.</string>
+    <string name="offline_opt_in_title">वापस ऑनलाइन आने पर, विज्ञापन खोलें.</string>
+    <string name="ok">ठीक है</string>
+    <string name="open_system_shade">सिस्टम शेड खोलें</string>
+    <string name="our_best_we_can_get">हम अपना सर्वश्रेष्ठ प्राप्त कर सकते हैं</string>
+    <string name="password_toggle_content_description">पासवर्ड दिखाएं</string>
+    <string name="percent">%%</string>
+    <string name="permission_camera_denied">
+        <![CDATA[चित्र लेने के लिए संग्रहण अनुमति की आवश्यकता होती है। कृपया सेटिंग्स> अनुमतियों से भंडारण की अनुमति दें।]]></string>
+    <string name="permissions_required">अनुमतियाँ आवश्यक हैं</string>
+    <string name="permissions_required_details">अनुरोधित अनुमतियों के बिना यह ऐप ठीक से काम नहीं कर सकता है। ऐप अनुमतियों को संशोधित करने के लिए ऐप सेटिंग स्क्रीन खोलें।</string>
+    <string name="please_feedback">कृपया अपनी प्रतिक्रिया दें!</string>
+    <string name="please_select_language">कृपया भाषा चुनें</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" क्लिपबोर्ड पर कॉपी किया गया."</string>
+    <string name="quick_settings_cellular_detail_title">मोबाइल सामग्री</string>
+    <string name="quick_settings_dnd_alarms_label">केवल अलार्म</string>
+    <string name="quick_settings_dnd_label">परेशान न करें</string>
+    <string name="quick_settings_dnd_none_label">पूर्ण मौन</string>
+    <string name="quick_settings_dnd_priority_label">केवल प्राथमिकता</string>
+    <string name="quick_settings_flashlight_label">टॉर्च</string>
+    <string name="quick_settings_location_label">जगह</string>
+    <string name="quick_settings_nfc_label">एनएफसी</string>
+    <string name="quick_settings_night_display_label">रात का चिराग़</string>
+    <string name="quick_settings_rotation_unlocked_label">अपने आप घूमना</string>
+    <string name="quick_settings_tiles_default">वाईफ़ाई, सेल, बैटरी, डीएनडी, टॉर्च, रोटेशन, बीटी, हवाई जहाज, स्थान, चमक, हॉटस्पॉट, सेवर, कास्ट, अंधेरा, रात, रिंगर, एनएफसी, स्टॉक, सिम</string>
+    <string name="quick_settings_tiles_more">, एसएस, आरईसी, सिंक, स्क्रीन, टाइमआउट, लॉक, घड़ी, कैमरा, कीबोर्ड</string>
+    <string name="quick_settings_ui_mode_night_label">डार्क मोड, डार्क थीम</string>
+    <string name="quick_settings_wifi_label">वाईफ़ाई</string>
+    <string name="remove_ads">विज्ञापन हटाएँ</string>
+    <string name="remove_all_annoying_ads_forever_by_just">सभी कष्टप्रद विज्ञापनों को हमेशा के लिए हटाएँ बस:</string>
+    <string name="reply">जवाब</string>
+    <string name="reset_position">स्थिति रीसेट करें</string>
+    <string name="reset_size">आकार रीसेट करें</string>
+    <string name="ringing_state">बजने वाली अवस्था</string>
+    <string name="ringing_state_change_animation">रिंगिंग स्थिति परिवर्तन एनीमेशन</string>
+    <string name="s1">इमेज सेव करें</string>
+    <string name="s2">विज्ञापन को तस्वीर गैलरी में इमेज सेव करने का अनुमति देना चाहते हैं?</string>
+    <string name="s3">मंज़ूरी दें</string>
+    <string name="s4">खारिज करें</string>
+    <string name="s5">कैलेंडर इवेंट बनाएं</string>
+    <string name="s6">विज्ञापन को कैलेंडर इवेंट बनाने दें?</string>
+    <string name="s7">जाँच विज्ञापन</string>
+    <string name="screen_lock">स्क्रीन लॉक है</string>
+    <string name="screen_record_name">स्क्रीन रिकॉर्डिंग</string>
+    <string name="screen_time">स्क्रीन टाइम</string>
+    <string name="screen_time_no_permission">अनुमति नहीं</string>
+    <string name="screenshot">स्क्रीनशॉट</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"खोजें"</string>
+    <string name="seconds_10">दस पल</string>
+    <string name="seconds_3">तीन सेकंड</string>
+    <string name="seconds_30">30 सेकंड</string>
+    <string name="shake">हिलाना</string>
+    <string name="silent_txt">चुपचाप</string>
+    <string name="sound">आवाज़</string>
+    <string name="start">शुरू</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="swipe_button_to_unlock_notch">नॉच अनलॉक करने के लिए स्वाइप बटन</string>
+    <string name="switch_sim">डेटा सिम स्विच करें</string>
+    <string name="test_text">नया ईमेल, अच्छा लंबा टेक्स्ट, यहां जाना अच्छा है, इसके साथ परीक्षण करने की बात है</string>
+    <string name="text_off">बंद</string>
+    <string name="text_on">पर</string>
+    <string name="text_rate_content">हम आपके लिए ऐप को बेहतर बनाने के लिए बहुत मेहनत करते हैं, और यह जानना अच्छा लगेगा: आप हमारे ऐप को कैसे रेटिंग देंगे</string>
+    <string name="text_rate_now">अब रेट करें</string>
+    <string name="text_thank_you">उपयोग करने के लिए आपका धन्यवाद</string>
+    <string name="thank_for_your_feedback">आपकी प्रतिक्रिया के लिए धन्यवाद!</string>
+    <string name="thank_you">धन्यवाद</string>
+    <string name="the_app_uses_the_accessibility_service_to_display_the_notch_view">ऐप नॉच व्यू प्रदर्शित करने के लिए एक्सेसिबिलिटी सर्विस का उपयोग करता है</string>
+    <string name="title_camera">कैमरा</string>
+    <string name="title_choose_image_provider">चुनें</string>
+    <string name="title_gallery">गेलरी</string>
+    <string name="toast_saved_failed">क्षमा मांगना! वॉलपेपर सहेजने में विफल</string>
+    <string name="toast_wallpaper_set">वॉलपेपर अपडेट किया गया!</string>
+    <string name="toast_wallpaper_set_failed">क्षमा मांगना! वॉलपेपर सेट करने में असमर्थ</string>
+    <string name="tt_ad_close_text">विज्ञापन बंद किया गया</string>
+    <string name="tt_ad_is_closed">विज्ञापन बंद</string>
+    <string name="tt_ad_logo_txt">AD</string>
+    <string name="tt_choose_language">hi</string>
+    <string name="tt_comment_num">%1$s समीक्षाएं</string>
+    <string name="tt_count_down_view">छोड़ें</string>
+    <string name="tt_dislike_header_tv_back">वापस जाएँ</string>
+    <string name="tt_dislike_header_tv_title">चुनें</string>
+    <string name="tt_display_error">डिस्प्ले त्रुटि</string>
+    <string name="tt_feedback_experience_text">हम अपनी सेवा में सुधार करना जारी रखेंगे.</string>
+    <string name="tt_feedback_submit_text">आप फ़ीडबैक सबमिट कर चुके हैं! कृपया फिर से सबमिट न करें.</string>
+    <string name="tt_feedback_thank_text">अपना फ़ीडबैक देने के लिए धन्यवाद!</string>
+    <string name="tt_logo_en">विज्ञापन</string>
+    <string name="tt_msgPlayable">रिवॉर्ड्स का दावा करने के लिए पूरा देखें</string>
+    <string name="tt_multiple_ad_indicator">%2$d में से विज्ञापन %1$d</string>
+    <string name="tt_negtiveBtnBtnText">छोड़ दें</string>
+    <string name="tt_negtive_txt">रद्द करें</string>
+    <string name="tt_no_network">नेटवर्क कनेक्शन मौजूद नहीं, कृपया बाद में फिर से कोशिश करें.</string>
+    <string name="tt_postiveBtnText">फिर से चलाएँ</string>
+    <string name="tt_postiveBtnTextPlayable">देखना जारी रखें</string>
+    <string name="tt_postive_txt">ठीक</string>
+    <string name="tt_privacy_title">प्राइवेसी पालिसी</string>
+    <string name="tt_reward_feedback">फ़ीडबैक</string>
+    <string name="tt_reward_msg">अपना रिवॉर्ड क्लेम करने के लिए पूरी वीडियो देखें</string>
+    <string name="tt_reward_screen_skip_tx">छोड़ें</string>
+    <string name="tt_skip_ad_time_text">%ds सेकंड के बाद छोड़ दें</string>
+    <string name="tt_suggestion_commit">सबमिट करें</string>
+    <string name="tt_suggestion_description">डिस्प्ले त्रुटि का विवरण दर्ज करें और \'सबमिट करें \' बटन पर क्लिक करें. समस्या का निवारण करने में मदद करने के लिए विज्ञापन क्रिएटिव को भी Pangle पर वापस भेजा जाएगा.</string>
+    <string name="tt_try_now">अब कोशिश करो</string>
+    <string name="tt_video_bytesize">डेटा</string>
+    <string name="tt_video_dial_phone">अभी कॉल करें</string>
+    <string name="tt_video_download_apk">डाउनलोड करें</string>
+    <string name="tt_video_mobile_go_detail">अभी देखें</string>
+    <string name="tt_video_retry_des_txt">लोड नहीं किया जा सका. कृपया फिर से कोशिश करें.</string>
+    <string name="tt_video_without_wifi_tips">इस सामग्री को चलाने पर %.2f MB डेटा का इस्तेमाल होगा</string>
+    <string name="tt_web_title_default">विज्ञापन</string>
+    <string name="txt_all">सभी</string>
+    <string name="txt_app">अनुप्रयोग</string>
+    <string name="txt_battery_charge">बैटरी चार्ज</string>
+    <string name="txt_better_notifications">बेहतर सूचनाएं</string>
+    <string name="txt_bluetooth_connect">ब्लूटूथ कनेक्ट</string>
+    <string name="txt_call_timer">कॉल टाइमर</string>
+    <string name="txt_calls">कॉल</string>
+    <string name="txt_continue">जारी रखना</string>
+    <string name="txt_decorate_your_front_camera_support_you_with_useful_functions">अपने फ्रंट कैमरे को सजाएं और उपयोगी कार्यों में आपकी सहायता करें</string>
+    <string name="txt_denie">इस सुविधा का उपयोग करने के लिए, आपको अनुमति की आवश्यकता है</string>
+    <string name="txt_display_a_battery_charging_animation_when_plugged">प्लग होने पर बैटरी चार्जिंग एनीमेशन प्रदर्शित करें</string>
+    <string name="txt_display_a_timer_when_in_call">कॉल के दौरान टाइमर प्रदर्शित करें</string>
+    <string name="txt_display_and_control_listening_music_on_your_notch">अपने नॉच पर संगीत सुनने का प्रदर्शन और नियंत्रण करें</string>
+    <string name="txt_display_app_notifications_amp_make_actions_by_your_notch">ऐप सूचनाएं प्रदर्शित करें और अपने पायदान के आधार पर कार्रवाई करें</string>
+    <string name="txt_display_navigation_directions_in_your_notch_when_using_google_map_navigation">Google मानचित्र नेविगेशन का उपयोग करते समय अपने नॉच में नेविगेशन दिशानिर्देश प्रदर्शित करें</string>
+    <string name="txt_display_ringing_mode_change_on_your_notch">अपने नॉच पर रिंगिंग मोड परिवर्तन प्रदर्शित करें</string>
+    <string name="txt_do_you_want_to_quit_the_app">क्या आप ऐप छोड़ना चाहते हैं\?</string>
+    <string name="txt_done">हो गया</string>
+    <string name="txt_easy_access_to_quick_action_provide_better_experience_for_your_phone">त्वरित कार्रवाई तक आसान पहुंच, आपके फ़ोन के लिए बेहतर अनुभव प्रदान करती है</string>
+    <string name="txt_easy_to_see_the_notifications_and_do_the_actions_on_dynamic_island_view">डायनेमिक आइलैंड व्यू पर सूचनाएं देखना और कार्रवाई करना आसान है।</string>
+    <string name="txt_easy_use">प्रयोग करने में आसान</string>
+    <string name="txt_headset">हेडसेट</string>
+    <string name="txt_headset_connect_animation">हेडसेट कनेक्ट एनीमेशन</string>
+    <string name="txt_hide_default">डिफ़ॉल्ट छिपाएँ</string>
+    <string name="txt_hide_default_call_app_notification_may_not_work_on_some_devices">डिफ़ॉल्ट कॉल ऐप अधिसूचना छुपाएं (कुछ डिवाइस पर काम नहीं कर सकता)</string>
+    <string name="txt_icon">आइकन</string>
+    <string name="txt_incoming_call">एक फोन आ रहा है</string>
+    <string name="txt_language">भाषा</string>
+    <string name="txt_more_app">और ज्यादा एप्लीकेशन</string>
+    <string name="txt_music">संगीत</string>
+    <string name="txt_navigation">मार्गदर्शन</string>
+    <string name="txt_notification">अधिसूचना</string>
+    <string name="txt_quick_ations">त्वरित प्रयास</string>
+    <string name="txt_quick_display">त्वरित प्रदर्शन</string>
+    <string name="txt_quit">छोड़ना</string>
+    <string name="txt_rate_us">हमें रेटिंग दें</string>
+    <string name="txt_real_time_updates_provide_the_latest_notification">वास्तविक समय के अपडेट नवीनतम अधिसूचना प्रदान करते हैं</string>
+    <string name="txt_request_record_permission">\"ब्लूटूथ ऐप को काम करने के लिए आवश्यक अनुमति है\"</string>
+    <string name="txt_ringing_state">बजने वाली अवस्था</string>
+    <string name="txt_rotate_cover">कवर घुमाएँ</string>
+    <string name="txt_select_apps">ऐप्स चुनें</string>
+    <string name="txt_settings">समायोजन</string>
+    <string name="txt_share_app">ऐप शेयर करें</string>
+    <string name="txt_show_action">कार्रवाई दिखाओ</string>
+    <string name="txt_show_incoming_calls_directly_on_your_notch">इनकमिंग कॉल को सीधे अपने नॉच पर दिखाएं</string>
+    <string name="txt_show_on_lock_screen">लॉक स्क्रीन पर दिखाएँ</string>
+    <string name="txt_skip">छोडना</string>
+    <string name="txt_thanks_you_for_rating">रेटिंग के लिए धन्यवाद!</string>
+    <string name="txt_turn_on">चालू करो</string>
+    <string name="ucrop_crop">काटना</string>
+    <string name="ucrop_label_edit_photo">फ़ोटो संपादित करें</string>
+    <string name="ucrop_label_original">मूल</string>
+    <string name="ucrop_menu_crop">काटना</string>
+    <string name="ucrop_rotate">घुमाएँ</string>
+    <string name="ucrop_scale">स्केल</string>
+    <string name="used_to_display_all_the_devices_connected_through_bluetooth_on_the_notch">ब्लूटूथ के माध्यम से जुड़े सभी उपकरणों को नॉच पर प्रदर्शित करने के लिए उपयोग किया जाता है</string>
+    <string name="used_to_display_the_notch_over_other_apps">सूचनाओं के लिए स्क्रीन के शीर्ष पर डायनेमिक आइलैंड को सेट अप करने और प्रदर्शित करने के लिए इस ऐप को एक्सेसिबिलिटी में सक्रिय करने की आवश्यकता है। एक्सेसिबिलिटी सेवा का उपयोग करके कोई डेटा एकत्र या साझा नहीं किया जाता है।</string>
+    <string name="used_to_forward_listening_music_and_notifications_to_the_notch">आपको डायनामिक आइलैंड पर सूचनाएं प्रदर्शित करने और उनमें हेरफेर करने के लिए अधिसूचना अनुमति देने की आवश्यकता है</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"बंद"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"चालू"</string>
+    <string name="vertical">लंबवत (वाई)</string>
+    <string name="vibrate">कंपन</string>
+    <string name="vibration">कंपन</string>
+    <string name="visibility">दृश्यता</string>
+    <string name="watermark_label_prefix">AdMob - </string>
+    <string name="well_comeback">वापसी पर स्वागत है</string>
+    <string name="when_nothing_to_show">जब दिखाने को कुछ नहीं</string>
+    <string name="width">चौड़ाई</string>
+    <string name="you_can_change_the_style">आप अपनी आवश्यकतानुसार शैली बदल सकते हैं, पायदान का आकार और स्थिति समायोजित कर सकते हैं</string>
+</resources>

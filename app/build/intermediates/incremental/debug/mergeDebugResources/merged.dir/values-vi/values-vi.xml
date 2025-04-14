@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d thông báo mới</item>
+    <item quantity="other">%d thông báo mới</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Chỉ đường về nhà"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Di chuyển lên"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Tùy chọn khác"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"TẮT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BẬT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Truy vấn tìm kiếm"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Chia sẻ với <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string name="accessibility">Khả năng tiếp cận</string>
+    <string name="accessibility_desc">Dịch vụ này cho phép sử dụng cửa sổ lớp phủ phía trên màn hình để hiển thị thông báo.\n\nKhông có dữ liệu nào được lưu trữ trên thiết bị hoặc gửi qua internet.</string>
+    <string name="agree">Đồng ý</string>
+    <string name="airpods">Airpod</string>
+    <string name="always">Luôn luôn</string>
+    <string name="animation">Hoạt ảnh</string>
+    <string name="app_name" translatable="false">Dynamic Island: Edge Lighting</string>
+    <string name="applied">Đã áp dụng</string>
+    <string name="apply">Áp dụng</string>
+    <string name="are_you_sure_you_want_to_exit">Bạn có chắc chắn muốn thoát không\?</string>
+    <string name="auto_adjust_notch">Tự động điều chỉnh notch</string>
+    <string name="backgroundImageName">máy tính_bg_image</string>
+    <string name="battery_Charge">Sạc pin</string>
+    <string name="battery_charging_animation">Sạc pin</string>
+    <string name="battery_optimization">Tối ưu hóa pin</string>
+    <string name="bluetooth_permission">Quyền Bluetooth không được cấp!</string>
+    <string name="bottomsheet_action_collapse">Thu gọn bảng dưới cùng</string>
+    <string name="bottomsheet_action_expand">Mở rộng bảng dưới cùng</string>
+    <string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
+    <string name="bottomsheet_drag_handle_clicked">Đã nhấn đúp nút kéo</string>
+    <string name="bottomsheet_drag_handle_content_description">Nút kéo</string>
+    <string name="brightness_mode">độ sáng</string>
+    <string name="buy_now">Mua ngay</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Trả lời"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Từ chối"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Kết thúc"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Cuộc gọi đến"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Cuộc gọi đang thực hiện"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Đang sàng lọc cuộc gọi đến"</string>
+    <string name="calls">Cuộc gọi</string>
+    <string name="camera">Máy ảnh</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="character_counter_content_description">Đã nhập %1$d trong số %2$d ký tự</string>
+    <string name="character_counter_overflowed_content_description">Đã vượt quá giới hạn ký tự %1$d/%2$d</string>
+    <string name="charging_txt">Sạc</string>
+    <string name="clear_text_end_icon_content_description">Xóa văn bản</string>
+    <string name="click_mode">Chế độ nhấn</string>
+    <string name="clock">Cái đồng hồ</string>
+    <string name="close">ĐÓNG</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">Truy cập &lt;b>facebook.com/device&lt;/b> và nhập mã hiển thị bên dưới.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">Lỗi không mong muốn khi tải hình ảnh xuống.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">Đăng nhập chế độ xem web yêu cầu quyền INTERNET</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">Lỗi AndroidManifest</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">Đã thích</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">Thích</string>
+    <string gender="unknown" name="com_facebook_loading">Đang tải…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">Hủy</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">Đăng nhập</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Tiếp tục với Facebook</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">Đăng nhập bằng Facebook</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">Đăng xuất</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">Đăng xuất</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">Đã đăng nhập với tên: %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">Đã đăng nhập bằng Facebook</string>
+    <string gender="unknown" name="com_facebook_send_button_text">Gửi</string>
+    <string gender="unknown" name="com_facebook_share_button_text">Chia sẻ</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">Để kết nối tài khoản của bạn, hãy mở ứng dụng Facebook trên thiết bị di động và kiểm tra thông báo.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- HOẶC -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">Không phải bạn?</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">Tiếp tục dưới tên %1$s</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">Xác nhận đăng nhập</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">Bạn nắm quyền kiểm soát - chọn thông tin bạn muốn chia sẻ với ứng dụng.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Bật</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Bật dịch vụ của Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Cài đặt</string>
+    <string name="common_google_play_services_install_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Thiết bị của bạn bị thiếu dịch vụ này.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Cài đặt dịch vụ của Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Phạm vi cung cấp Dịch vụ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Lỗi dịch vụ của Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với Dịch vụ Google Play. Hãy thử lại.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s sẽ không chạy nếu không có Dịch vụ Google Play. Thiết bị của bạn không hỗ trợ các dịch vụ này.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Cập nhật</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s sẽ không chạy trừ khi bạn cập nhật Dịch vụ Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Cập nhật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Dịch vụ này hiện đang cập nhật.</string>
+    <string name="common_google_play_services_wear_update_text">Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật.</string>
+    <string name="common_open_on_phone">Mở trên điện thoại</string>
+    <string name="common_signin_button_text">Đăng nhập</string>
+    <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
+    <string name="configs">Cấu hình</string>
+    <string msgid="6083905920877235314" name="copy">"Sao chép"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Đã sao chép đường liên kết vào bảng nhớ tạm"</string>
+    <string name="custom">Phong tục</string>
+    <string name="data_saver">Trình tiết kiệm dữ liệu</string>
+    <string name="disable_battery_optimization_if_your_notch_disappear_automatically_after_some_times">Vô hiệu hóa tối ưu hóa pin nếu notch của bạn tự động biến mất sau một thời gian</string>
+    <string name="disclosure">Tiết lộ</string>
+    <string name="display_listening_music_on_your_notch">Hiển thị nhạc đang nghe trên notch của bạn</string>
+    <string name="display_notch">Hiển thị notch</string>
+    <string name="done">Xong!</string>
+    <string name="dynamic_island" translatable="false">Dynamic Island</string>
+    <string name="enable_location">Cho phép vị trí</string>
+    <string name="error_icon_content_description">Lỗi</string>
+    <string name="exit">RA</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Nâng cao"</string>
+    <string name="exposed_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Sao chép đường liên kết"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Mở trong trình duyệt"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Chia sẻ đường liên kết"</string>
+    <string name="force_your_notch_to_be_centered_in_split_mode">Buộc phần notch của bạn được căn giữa ở chế độ phân chia</string>
+    <string name="full_txt">Đầy</string>
+    <string name="get_animation_notifications_on_your_notch">Nhận thông báo hoạt ảnh trên notch của bạn</string>
+    <string name="get_started">Bắt đầu</string>
+    <string name="go_to_settings">Cài đặt</string>
+    <string name="headset">Tai nghe</string>
+    <string name="headset_connect_animation">Kết nối tai nghe</string>
+    <string name="height">Chiều cao</string>
+    <string name="hide_in_landscape_mode">Ẩn trong Chế độ ngang</string>
+    <string name="home">Trang chủ</string>
+    <string name="horizontal">Ngang (X)</string>
+    <string name="icon_content_description">Biểu tượng hộp thoại</string>
+    <string name="incoming_calls_directly_on_your_notch">Cuộc gọi đến trực tiếp trên notch của bạn</string>
+    <string name="item_view_role_description">Thẻ</string>
+    <string name="keep_notch_visible">Giữ Notch hiển thị</string>
+    <string name="keyboard_picker">Bộ chọn bàn phím</string>
+    <string name="language" translatable="false">Language</string>
+    <string name="loading_ads">Đang tải quảng cáo…</string>
+    <string name="long_click">Nhấp giữ</string>
+    <string name="long_click_to_hide_the_notch_content_preview">#Chạm để ẩn bản xem trước nội dung notch</string>
+    <string name="long_click_to_open_app">#Chạm để mở ứng dụng</string>
+    <string name="long_click_to_preview_the_notch_content">#Chạm để xem trước nội dung notch</string>
+    <string name="material_clock_toggle_content_description">Chọn SA hoặc CH</string>
+    <string name="material_hour_24h_suffix">%1$s giờ</string>
+    <string name="material_hour_selection">Chọn giờ</string>
+    <string name="material_hour_suffix">%1$s giờ</string>
+    <string name="material_minute_selection">Chọn phút</string>
+    <string name="material_minute_suffix">%1$s phút</string>
+    <string name="material_timepicker_am">SA</string>
+    <string name="material_timepicker_clock_mode_description">Chuyển sang chế độ đồng hồ để nhập thời gian.</string>
+    <string name="material_timepicker_hour">Giờ</string>
+    <string name="material_timepicker_minute">Phút</string>
+    <string name="material_timepicker_pm">CH</string>
+    <string name="material_timepicker_select_time">Chọn thời gian</string>
+    <string name="material_timepicker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
+    <string name="minute_1">1 phút</string>
+    <string name="minute_10">10 phút</string>
+    <string name="minute_5">5 phút</string>
+    <string name="modules">Mô-đun</string>
+    <string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
+    <string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Hơn %1$d thông báo mới</string>
+    <string name="mtrl_picker_a11y_next_month">Chuyển sang tháng tiếp theo</string>
+    <string name="mtrl_picker_a11y_prev_month">Chuyển về tháng trước</string>
+    <string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
+    <string name="mtrl_picker_cancel">Hủy</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Chọn ngày</string>
+    <string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
+    <string name="mtrl_picker_day_of_week_column_header">Cột ngày: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Định dạng không hợp lệ.</string>
+    <string name="mtrl_picker_invalid_format_example">Ví dụ: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Sử dụng: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Phạm vi không hợp lệ.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Chuyển tới năm %1$s</string>
+    <string name="mtrl_picker_out_of_range">Nằm ngoài phạm vi: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Ngày bắt đầu – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Ngày kết thúc</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Chọn dải ô</string>
+    <string name="mtrl_picker_range_header_unselected">Ngày bắt đầu – Ngày kết thúc</string>
+    <string name="mtrl_picker_save">Lưu</string>
+    <string name="mtrl_picker_text_input_date_hint">Ngày</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Ngày kết thúc</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Ngày bắt đầu</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Chuyển sang chế độ nhập lịch</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Nhấn để chuyển sang chế độ chọn một ngày</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Chuyển sang chế độ nhập văn bản</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Nhấn để chuyển sang chế độ chọn một năm</string>
+    <string name="mtrl_timepicker_cancel">Huỷ</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="native_body">Nội dung</string>
+    <string name="native_headline">Tiêu đề</string>
+    <string name="native_media_view">Nội dung nghe nhìn</string>
+    <string name="navigation">Điều hướng</string>
+    <string name="navigation_helper_with_google_map">Trợ giúp điều hướng với bản đồ google</string>
+    <string name="neon">neon</string>
+    <string name="neon_color">Màu neon</string>
+    <string name="next">Kế tiếp</string>
+    <string name="no_data_is_collected_or_shared_using_the_accessibility_service_api">Không có dữ liệu nào được thu thập hoặc chia sẻ bằng API AccessibilityService</string>
+    <string name="normal_click">Nhấp chuột bình thường</string>
+    <string name="normal_click_to_hide_the_notch_content_preview">#Chạm để ẩn bản xem trước nội dung notch</string>
+    <string name="normal_click_to_open_app">#Chạm để mở ứng dụng</string>
+    <string name="normal_click_to_preview_the_notch_content">#Chạm để xem trước nội dung notch</string>
+    <string msgid="6573031135582639649" name="not_set">"Chưa đặt"</string>
+    <string name="notch_click_code">Chế độ nhấp chuột notch</string>
+    <string name="notch_position">Vị trí notch</string>
+    <string name="notch_size">Kích thước notch</string>
+    <string name="notch_style">Phong cách notch</string>
+    <string name="notification_access">Truy cập thông báo</string>
+    <string name="notification_animation">Hoạt ảnh thông báo</string>
+    <string name="notifications">Thông báo</string>
+    <string name="notifications_permission_confirm">Cho phép</string>
+    <string name="notifications_permission_decline">Không cho phép</string>
+    <string name="notifications_permission_title">Cho phép ứng dụng gửi thông báo cho bạn?</string>
+    <string name="offline_dialog_image_description">Biểu tượng</string>
+    <string name="offline_dialog_text">Cảm ơn bạn đã quan tâm.\nChúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại.</string>
+    <string name="offline_notification_text">Tiêu đề</string>
+    <string name="offline_notification_title">Bạn đã kết nối mạng trở lại! Hãy tiếp tục từ thời điểm chúng ta dừng lại lần trước</string>
+    <string name="offline_notification_title_with_advertiser">Bạn đã kết nối mạng trở lại! Tiếp tục tìm hiểu về %s</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_decline">Để sau</string>
+    <string name="offline_opt_in_message">Chúng tôi sẽ gửi thông báo cho bạn kèm theo đường liên kết đến trang web của nhà quảng cáo.</string>
+    <string name="offline_opt_in_title">Mở quảng cáo khi bạn có kết nối mạng trở lại.</string>
+    <string name="ok">Được rồi</string>
+    <string name="open_system_shade">Bóng hệ thống mở</string>
+    <string name="our_best_we_can_get">Điều tốt nhất chúng ta có thể có được</string>
+    <string name="password_toggle_content_description">Hiện mật khẩu</string>
+    <string name="percent">%%</string>
+    <string name="permissions_required">Yêu cầu quyền</string>
+    <string name="permissions_required_details">Ứng dụng này có thể không hoạt động chính xác nếu không có quyền được yêu cầu. Mở màn hình cài đặt ứng dụng để sửa đổi quyền của ứng dụng.</string>
+    <string name="please_feedback">Xin vui lòng phản hồi!</string>
+    <string name="please_select_language">Vui lòng chọn ngôn ngữ</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Đã sao chép \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" vào bảng nhớ tạm."</string>
+    <string name="quick_settings_cellular_detail_title">Dữ liệu di động</string>
+    <string name="quick_settings_dnd_alarms_label">Chỉ báo thức</string>
+    <string name="quick_settings_dnd_label">Đừng làm phiền</string>
+    <string name="quick_settings_dnd_none_label">Hoàn toàn im lặng</string>
+    <string name="quick_settings_dnd_priority_label">Chỉ ưu tiên</string>
+    <string name="quick_settings_flashlight_label">Đèn pin</string>
+    <string name="quick_settings_location_label">Vị trí</string>
+    <string name="quick_settings_nfc_label">NFC</string>
+    <string name="quick_settings_night_display_label">Ánh sáng ban đêm</string>
+    <string name="quick_settings_rotation_unlocked_label">Tự động xoay</string>
+    <string name="quick_settings_tiles_default">wifi, di động, pin, dnd, đèn pin, xoay, bt, máy bay, vị trí, độ sáng, điểm phát sóng, trình tiết kiệm, truyền, tối, đêm, chuông, nfc, chứng khoán, sim</string>
+    <string name="quick_settings_tiles_more">,ss,rec,đồng bộ hóa,màn hình,thời gian chờ,khóa,đồng hồ,máy ảnh,bàn phím</string>
+    <string name="quick_settings_ui_mode_night_label">Chế độ tối, Chủ đề tối</string>
+    <string name="quick_settings_wifi_label">Wifi</string>
+    <string name="remove_ads">XÓA QUẢNG CÁO</string>
+    <string name="remove_all_annoying_ads_forever_by_just">Xóa bỏ mọi quảng cáo gây phiền nhiễu mãi mãi chỉ bằng cách:</string>
+    <string name="reply">Hồi đáp</string>
+    <string name="reset_position">Đặt lại vị trí</string>
+    <string name="reset_size">Đặt lại kích thước</string>
+    <string name="ringing_state">Trạng thái đổ chuông</string>
+    <string name="ringing_state_change_animation">Thay đổi trạng thái đổ chuông</string>
+    <string name="s1">Lưu hình ảnh</string>
+    <string name="s2">Cho phép Quảng cáo lưu trữ hình ảnh trong thư viện Ảnh?</string>
+    <string name="s3">Chấp nhận</string>
+    <string name="s4">Từ chối</string>
+    <string name="s5">Tạo sự kiện lịch</string>
+    <string name="s6">Cho phép Quảng cáo tạo sự kiện lịch?</string>
+    <string name="s7">Quảng cáo thử nghiệm</string>
+    <string name="screen_lock">Khóa màn hình</string>
+    <string name="screen_record_name">Ghi màn hình</string>
+    <string name="screen_time">Thời gian sử dụng màn hình</string>
+    <string name="screen_time_no_permission">Không cho phép</string>
+    <string name="screenshot">Ảnh chụp màn hình</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Tìm kiếm"</string>
+    <string name="seconds_10">10 giây</string>
+    <string name="seconds_3">3 giây</string>
+    <string name="seconds_30">30 giây</string>
+    <string name="shake">Lắc</string>
+    <string name="silent_txt">Im lặng</string>
+    <string name="sound">Âm thanh</string>
+    <string name="start">Bắt đầu</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="swipe_button_to_unlock_notch">Nút vuốt để mở khóa notch</string>
+    <string name="switch_sim">Chuyển đổi dữ liệu SIM</string>
+    <string name="test_text">Email mới Văn bản dài tốt là tốt để đi đây là điều cần kiểm tra với nó</string>
+    <string name="text_off">Tắt</string>
+    <string name="text_on">Trên</string>
+    <string name="text_rate_content">Chúng tôi làm việc hết sức chăm chỉ để cải thiện ứng dụng cho bạn và rất muốn biết: bạn đánh giá ứng dụng của chúng tôi như thế nào</string>
+    <string name="text_rate_now">Bình chọn bây giờ</string>
+    <string name="text_thank_you">Cảm ơn bạn đã sử dụng</string>
+    <string name="thank_for_your_feedback">Cảm ơn phản hồi của bạn!</string>
+    <string name="thank_you">Cảm ơn</string>
+    <string name="the_app_uses_the_accessibility_service_to_display_the_notch_view">Ứng dụng sử dụng AccessibilityService để hiển thị chế độ xem khía cạnh</string>
+    <string name="toast_saved_failed">Lấy làm tiếc! Không lưu được hình nền</string>
+    <string name="toast_wallpaper_set">Hình nền đã được cập nhật!</string>
+    <string name="toast_wallpaper_set_failed">Lấy làm tiếc! Không thể đặt hình nền</string>
+    <string name="tt_ad_close_text">Quảng cáo đã đóng</string>
+    <string name="tt_ad_is_closed">Quảng cáo đã đóng</string>
+    <string name="tt_ad_logo_txt">AD</string>
+    <string name="tt_add_bad_reason">Thêm lý do khiến bạn nghĩ đây là nội dung tệ</string>
+    <string name="tt_bad">Tồi tệ</string>
+    <string name="tt_choose_language">vi</string>
+    <string name="tt_comment_num">%1$s lượt đánh giá</string>
+    <string name="tt_count_down_view">Bỏ qua</string>
+    <string name="tt_dislike_header_tv_back">Quay lại</string>
+    <string name="tt_dislike_header_tv_title">Chọn</string>
+    <string name="tt_display_error">Lỗi hiển thị</string>
+    <string name="tt_done">Xong</string>
+    <string name="tt_feedback_experience_text">Chúng tôi sẽ không ngừng cải thiện dịch vụ.</string>
+    <string name="tt_feedback_submit_text">Bạn đã gửi phản hồi xong! Vui lòng không gửi lại.</string>
+    <string name="tt_feedback_thank_text">Cảm ơn bạn đã phản hồi!</string>
+    <string name="tt_feel_hint">Hãy chia sẻ cảm nhận của bạn về quảng cáo này</string>
+    <string name="tt_good">Tuyệt vời</string>
+    <string name="tt_like_this_ad">Bạn thích quảng cáo này chứ?</string>
+    <string name="tt_logo_en">Quảng cáo</string>
+    <string name="tt_msgPlayable">Chơi hết để giành phần thưởng</string>
+    <string name="tt_multiple_ad_indicator">quảng cáo %1$d/%2$d</string>
+    <string name="tt_negtiveBtnBtnText">Rời đi</string>
+    <string name="tt_negtive_txt">Hủy</string>
+    <string name="tt_no_network">Không có kết nối mạng, vui lòng thử lại sau.</string>
+    <string name="tt_not_bad">Không tệ lắm</string>
+    <string name="tt_other_reason">Lý do khác</string>
+    <string name="tt_postiveBtnText">Tiếp tục</string>
+    <string name="tt_postiveBtnTextPlayable">Tiếp tục chơi</string>
+    <string name="tt_postive_txt">OK</string>
+    <string name="tt_privacy_title">Chính sách quyền riêng tư</string>
+    <string name="tt_report_this_ad">Báo cáo quảng cáo này để giúp chúng tôi cải thiện</string>
+    <string name="tt_reward_feedback">Phản hồi</string>
+    <string name="tt_reward_full_skip">Bỏ qua sau %1$s giây</string>
+    <string name="tt_reward_msg">Xem hết video để nhận phần thưởng</string>
+    <string name="tt_reward_screen_skip_tx">Bỏ qua</string>
+    <string name="tt_select_reason">Vui lòng chọn lý do</string>
+    <string name="tt_skip_ad_time_text">Bỏ qua sau %ds giây</string>
+    <string name="tt_suggestion_commit">Gửi</string>
+    <string name="tt_suggestion_description">Nhập mô tả về lỗi hiển thị và nhấp vào nút Gửi. Mẫu quảng cáo cũng sẽ được gửi lại cho Pangle để hỗ trợ khắc phục sự cố.</string>
+    <string name="tt_try_now">Thử ngay bây giờ</string>
+    <string name="tt_video_bytesize">Dữ liệu</string>
+    <string name="tt_video_dial_phone">Gọi ngay</string>
+    <string name="tt_video_download_apk">Tải xuống ngay</string>
+    <string name="tt_video_mobile_go_detail">Xem ngay</string>
+    <string name="tt_video_retry_des_txt">Không tải được. Vui lòng thử lại.</string>
+    <string name="tt_video_without_wifi_tips">Bạn sẽ mất %.2f MB dữ liệu để phát nội dung này</string>
+    <string name="tt_web_title_default">Quảng cáo</string>
+    <string name="txt_all">Tất cả</string>
+    <string name="txt_app">Ứng dụng</string>
+    <string name="txt_battery_charge">Kết nối bộ sạc</string>
+    <string name="txt_better_notifications">Thông báo tốt hơn</string>
+    <string name="txt_bluetooth_connect">Kết nối Bluetooth</string>
+    <string name="txt_call_timer">Thời gian cuộc gọi</string>
+    <string name="txt_calls">Cuộc gọi</string>
+    <string name="txt_continue">Tiếp tục</string>
+    <string name="txt_decorate_your_front_camera_support_you_with_useful_functions">Hiển thị camera trước của bạn và hỗ trợ bạn với các chức năng hữu ích</string>
+    <string name="txt_denie">Để sử dụng tính năng này, bạn cần có sự cho phép</string>
+    <string name="txt_display_a_battery_charging_animation_when_plugged">Hiển thị hình ảnh động đang sạc pin khi cắm điện</string>
+    <string name="txt_display_a_timer_when_in_call">Hiển thị đồng hồ hẹn giờ khi có cuộc gọi</string>
+    <string name="txt_display_and_control_listening_music_on_your_notch">Hiển thị và điều khiển việc nghe nhạc trên notch của bạn</string>
+    <string name="txt_display_app_notifications_amp_make_actions_by_your_notch">Hiển thị thông báo ứng dụng và thực hiện hành động của ứng dụng</string>
+    <string name="txt_display_navigation_directions_in_your_notch_when_using_google_map_navigation">Hiển thị chỉ đường điều hướng ở phần notch của bạn khi sử dụng điều hướng bản đồ google</string>
+    <string name="txt_display_ringing_mode_change_on_your_notch">Hiển thị thay đổi chế độ đổ chuông trên notch của bạn</string>
+    <string name="txt_do_you_want_to_quit_the_app">Bạn có muốn thoát khỏi ứng dụng\?</string>
+    <string name="txt_done">Xong</string>
+    <string name="txt_easy_access_to_quick_action_provide_better_experience_for_your_phone">Dễ dàng truy cập vào hành động nhanh chóng, cung cấp trải nghiệm tốt hơn cho điện thoại của bạn</string>
+    <string name="txt_easy_to_see_the_notifications_and_do_the_actions_on_dynamic_island_view">Dễ dàng xem thông báo và thực hiện các hành động trên chế độ xem Đảo động.</string>
+    <string name="txt_easy_use">Dễ dàng sử dụng</string>
+    <string name="txt_headset">Tai nghe</string>
+    <string name="txt_headset_connect_animation">Hoạt hình kết nối tai nghe</string>
+    <string name="txt_hide_default">Ẩn mặc định</string>
+    <string name="txt_hide_default_call_app_notification_may_not_work_on_some_devices">Ẩn thông báo ứng dụng cuộc gọi mặc định (có thể không hoạt động trên một số thiết bị)</string>
+    <string name="txt_icon">Biểu tượng</string>
+    <string name="txt_incoming_call">Cuộc gọi đến</string>
+    <string name="txt_language">Ngôn ngữ</string>
+    <string name="txt_more_app">Khám phá ứng dụng khác</string>
+    <string name="txt_music">Âm nhạc</string>
+    <string name="txt_navigation">Điều hướng</string>
+    <string name="txt_notification">Thông báo</string>
+    <string name="txt_quick_ations">Thao tác nhanh</string>
+    <string name="txt_quick_display">Hiển thị nhanh</string>
+    <string name="txt_quit">Thoát</string>
+    <string name="txt_rate_us">Đánh giá</string>
+    <string name="txt_real_time_updates_provide_the_latest_notification">Cập nhật theo thời gian thực cung cấp thông báo mới nhất</string>
+    <string name="txt_request_record_permission">\"Bluetooth là quyền cần thiết để ứng dụng hoạt động\"</string>
+    <string name="txt_ringing_state">Trạng thái đổ chuông</string>
+    <string name="txt_rotate_cover">Xoay ảnh</string>
+    <string name="txt_select_apps">Chọn ứng dụng</string>
+    <string name="txt_settings">Cài đặt</string>
+    <string name="txt_share_app">Chia sẻ ứng dụng</string>
+    <string name="txt_show_action">Hiển thị hành động</string>
+    <string name="txt_show_incoming_calls_directly_on_your_notch">Hiển thị cuộc gọi đến trực tiếp trên notch của bạn</string>
+    <string name="txt_show_on_lock_screen">Hiển thị trên màn hình khóa</string>
+    <string name="txt_skip">Bỏ qua</string>
+    <string name="txt_thanks_you_for_rating">Cảm ơn bạn đã đánh giá!</string>
+    <string name="txt_turn_on">Bật</string>
+    <string name="used_to_display_all_the_devices_connected_through_bluetooth_on_the_notch">Được sử dụng để hiển thị tất cả các thiết bị được kết nối qua Bluetooth trên notch</string>
+    <string name="used_to_display_the_notch_over_other_apps">Được sử dụng để hiển thị phần notch trên các ứng dụng khác</string>
+    <string name="used_to_forward_listening_music_and_notifications_to_the_notch">Được sử dụng để chuyển tiếp nhạc đang nghe và thông báo tới phần notch</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"TẮT"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"BẬT"</string>
+    <string name="vertical">Dọc (Y)</string>
+    <string name="vibrate">Rung</string>
+    <string name="vibration">Rung</string>
+    <string name="visibility">Hiển thị</string>
+    <string name="watermark_label_prefix">AdMob – </string>
+    <string name="well_comeback">Chào mừng trở lại</string>
+    <string name="when_nothing_to_show">Khi không có gì để hiển thị</string>
+    <string name="width">Chiều rộng</string>
+    <string name="you_can_change_the_style">Bạn có thể thay đổi kiểu dáng, điều chỉnh kích thước và vị trí của notch theo nhu cầu</string>
+</resources>

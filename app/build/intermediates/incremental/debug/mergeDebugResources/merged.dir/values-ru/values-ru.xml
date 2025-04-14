@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d новое уведомление</item>
+    <item quantity="few">%d новых уведомления</item>
+    <item quantity="many">%d новых уведомлений</item>
+    <item quantity="other">%d нового уведомления</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="accessibility">Доступность</string>
+    <string name="accessibility_desc">Этот сервис позволяет использовать окно-наложение поверх экрана для уведомлений.\n\nНикакие данные не сохраняются на устройстве и не передаются через Интернет.</string>
+    <string name="agree">Соглашаться</string>
+    <string name="airpods">Аэроподы</string>
+    <string name="always">Всегда</string>
+    <string name="animation">Анимация</string>
+    <string name="app_name" translatable="false">Dynamic Island: Edge Lighting</string>
+    <string name="applied">Применяемый</string>
+    <string name="apply">Применять</string>
+    <string name="are_you_sure_you_want_to_exit">Вы уверены, что хотите выйти\?</string>
+    <string name="auto_adjust_notch">Автоматическая регулировка выреза</string>
+    <string name="backgroundImageName">компьютер_bg_image</string>
+    <string name="battery_Charge">Заряд батареи</string>
+    <string name="battery_charging_animation">Анимация зарядки аккумулятора</string>
+    <string name="battery_optimization">Оптимизация батареи</string>
+    <string name="bluetooth_permission">Разрешение Bluetooth не предоставлено!</string>
+    <string name="bottomsheet_action_collapse">Свернуть нижний экран</string>
+    <string name="bottomsheet_action_expand">Развернуть нижний экран</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="bottomsheet_drag_handle_clicked">Двойное нажатие на маркер перемещения</string>
+    <string name="bottomsheet_drag_handle_content_description">Маркер перемещения</string>
+    <string name="brightness_mode">Яркость</string>
+    <string name="buy_now">Купить сейчас</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Ответить"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Видео"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Отклонить"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Завершить"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Входящий вызов"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Текущий вызов"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Фильтрация входящего вызова"</string>
+    <string name="calls">Звонки</string>
+    <string name="camera">Камера</string>
+    <string name="cancel">Отмена</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
+    <string name="charging_txt">Зарядка</string>
+    <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
+    <string name="click_mode">Нажмите «Режим»</string>
+    <string name="clock">Часы</string>
+    <string name="close">ЗАКРЫВАТЬ</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">Перейдите на &lt;b>facebook.com/device&lt;/b> и введите код, указанный выше.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">Неожиданная ошибка при скачивании изображения.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">Для входа через WebView необходимо разрешение INTERNET</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">Ошибка AndroidManifest</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">Нравится</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">Нравится</string>
+    <string gender="unknown" name="com_facebook_loading">Загрузка…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">Отмена</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">Войти</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Продолжить с Facebook</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">Вход через Facebook</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">Выйти</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">Выйти</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">Вы вошли как %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">Выполнен вход через Facebook</string>
+    <string gender="unknown" name="com_facebook_send_button_text">Отправить</string>
+    <string gender="unknown" name="com_facebook_share_button_text">Поделиться</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">Чтобы привязать ваш аккаунт, откройте приложение Facebook на своем мобильном устройстве и проверьте уведомления.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- ИЛИ -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">Это не вы?</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">Продолжить как %1$s</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">Подтвердите вход</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">Контроль над данными — выберите, какой информацией вы хотите делиться с приложениями.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Включить</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Обновить</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string name="configs">Конфиги</string>
+    <string msgid="6083905920877235314" name="copy">"Копировать"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Ссылка скопирована в буфер обмена."</string>
+    <string name="custom">Обычай</string>
+    <string name="data_saver">Экономия данных</string>
+    <string name="disable_battery_optimization_if_your_notch_disappear_automatically_after_some_times">Отключите оптимизацию батареи, если метка автоматически исчезнет через некоторое время.</string>
+    <string name="disclosure">Раскрытие информации</string>
+    <string name="display_listening_music_on_your_notch">Отображение прослушиваемой музыки на экране</string>
+    <string name="display_notch">Дисплей</string>
+    <string name="done">Сделанный!</string>
+    <string name="dynamic_island" translatable="false">Dynamic Island</string>
+    <string name="enable_location">Включить местоположение</string>
+    <string name="error_icon_content_description">Ошибка</string>
+    <string name="exit">ВЫХОД</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Дополнительно"</string>
+    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Копировать ссылку"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Открыть в браузере"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Отправить ссылку"</string>
+    <string name="force_your_notch_to_be_centered_in_split_mode">Заставьте выемку центрироваться в режиме разделения.</string>
+    <string name="full_txt">Полный</string>
+    <string name="get_animation_notifications_on_your_notch">Получайте уведомления об анимации на своем устройстве</string>
+    <string name="get_started">Начать</string>
+    <string name="go_to_settings">ПЕРЕЙДИТЕ В НАСТРОЙКИ</string>
+    <string name="headset">Гарнитура</string>
+    <string name="headset_connect_animation">Анимация подключения гарнитуры</string>
+    <string name="height">Высота</string>
+    <string name="hide_in_landscape_mode">Скрыть в ландшафтном режиме</string>
+    <string name="home">Дом</string>
+    <string name="horizontal">Горизонтальный (X)</string>
+    <string name="icon_content_description">Значок диалогового окна</string>
+    <string name="incoming_calls_directly_on_your_notch">Входящие звонки прямо на вашем планшете</string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string name="keep_notch_visible">Держите метку на видном месте</string>
+    <string name="keyboard_picker">Выбор клавиатуры</string>
+    <string name="language" translatable="false">Language</string>
+    <string name="loading_ads">Загрузка объявления…</string>
+    <string name="long_click">Длинный щелчок</string>
+    <string name="long_click_to_hide_the_notch_content_preview">#Длительное нажатие, чтобы скрыть предварительный просмотр содержимого выреза</string>
+    <string name="long_click_to_open_app">#Длительное нажатие, чтобы открыть приложение</string>
+    <string name="long_click_to_preview_the_notch_content">#Длительное нажатие, чтобы просмотреть содержимое выреза</string>
+    <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
+    <string name="material_hour_24h_suffix">%1$s ч.</string>
+    <string name="material_hour_selection">Выберите час</string>
+    <string name="material_hour_suffix">%1$s ч.</string>
+    <string name="material_minute_selection">Выберите минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
+    <string name="material_timepicker_hour">Час</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Выбор времени</string>
+    <string name="material_timepicker_text_input_mode_description">Чтобы ввести время, перейдите в режим ввода текста.</string>
+    <string name="minute_1">1 минута</string>
+    <string name="minute_10">10 минут</string>
+    <string name="minute_5">5 минут</string>
+    <string name="modules">Модули</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить \"%1$s\"</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Новых уведомлений больше %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
+    <string name="mtrl_picker_announce_current_selection">Выбранный элемент: %1$s</string>
+    <string name="mtrl_picker_cancel">Отмена</string>
+    <string name="mtrl_picker_confirm">ОК</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">Столбец со днями недели: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недействительный формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Недопустимый диапазон.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$s году</string>
+    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата окончания</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала – дата окончания</string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата окончания</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим выбора дней</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы перейти к выбору дня</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы перейти к выбору года</string>
+    <string name="mtrl_timepicker_cancel">Отмена</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
+    <string name="native_body">Текст</string>
+    <string name="native_headline">Заголовок</string>
+    <string name="native_media_view">Просмотр мультимедиа</string>
+    <string name="navigation">Навигация</string>
+    <string name="navigation_helper_with_google_map">Помощник по навигации с картой Google</string>
+    <string name="neon">Неон</string>
+    <string name="neon_color">Неоновый Цвет</string>
+    <string name="next">Следующий</string>
+    <string name="no_data_is_collected_or_shared_using_the_accessibility_service_api">Никакие данные не собираются и не передаются с помощью API AccessibilityService.</string>
+    <string name="normal_click">Обычный щелчок</string>
+    <string name="normal_click_to_hide_the_notch_content_preview">#Обычный щелчок, чтобы скрыть предварительный просмотр содержимого выреза</string>
+    <string name="normal_click_to_open_app">#Обычный клик, чтобы открыть приложение</string>
+    <string name="normal_click_to_preview_the_notch_content">#Обычный щелчок, чтобы просмотреть содержимое выреза</string>
+    <string msgid="6573031135582639649" name="not_set">"Не указано"</string>
+    <string name="notch_click_code">Режим щелчка надреза</string>
+    <string name="notch_position">Положение выреза</string>
+    <string name="notch_size">Размер выреза</string>
+    <string name="notch_style">Нотч-стиль</string>
+    <string name="notification_access">Доступ к уведомлениям</string>
+    <string name="notification_animation">Анимация уведомлений</string>
+    <string name="notifications">Уведомления</string>
+    <string name="notifications_permission_confirm">Разрешить</string>
+    <string name="notifications_permission_decline">Запретить</string>
+    <string name="notifications_permission_title">Разрешить приложению отправлять уведомления?</string>
+    <string name="offline_dialog_image_description">Значок</string>
+    <string name="offline_dialog_text">Благодарим за интерес к объявлению.\nМы отправим вам больше информации, как только вы снова подключитесь к интернету.</string>
+    <string name="offline_notification_text">Заголовок</string>
+    <string name="offline_notification_title">Вы подключились к интернету. Давайте продолжим с того момента, на котором остановились</string>
+    <string name="offline_notification_title_with_advertiser">Вы подключились к интернету. Узнайте больше о рекламодателе (%s)</string>
+    <string name="offline_opt_in_confirm">ОК</string>
+    <string name="offline_opt_in_decline">Нет, спасибо</string>
+    <string name="offline_opt_in_message">Когда вы подключитесь к Интернету, мы отправим вам уведомление со ссылкой на сайт рекламодателя.</string>
+    <string name="offline_opt_in_title">Посмотрите объявление, когда будете в Сети</string>
+    <string name="ok">Хорошо</string>
+    <string name="open_system_shade">Открытая система штор</string>
+    <string name="our_best_we_can_get">Наше лучшее, что мы можем получить</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="percent">%%</string>
+    <string name="permissions_required">Требуются разрешения</string>
+    <string name="permissions_required_details">Это приложение может работать неправильно без запрошенных разрешений. Откройте экран настроек приложения, чтобы изменить разрешения приложения.</string>
+    <string name="please_feedback">Пожалуйста, оставьте отзыв!</string>
+    <string name="please_select_language">Пожалуйста, выберите язык</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Текст \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" скопирован в буфер обмена"</string>
+    <string name="quick_settings_cellular_detail_title">Мобильные данные</string>
+    <string name="quick_settings_dnd_alarms_label">Только сигналы тревоги</string>
+    <string name="quick_settings_dnd_label">Просьба не беспокоить</string>
+    <string name="quick_settings_dnd_none_label">Полная тишина</string>
+    <string name="quick_settings_dnd_priority_label">Только приоритет</string>
+    <string name="quick_settings_flashlight_label">Фонарик</string>
+    <string name="quick_settings_location_label">Расположение</string>
+    <string name="quick_settings_nfc_label">НФК</string>
+    <string name="quick_settings_night_display_label">Ночной свет</string>
+    <string name="quick_settings_rotation_unlocked_label">Авто-поворот</string>
+    <string name="quick_settings_tiles_default">wifi,ячейка,батарея,DND,фонарик,вращение,bt,самолет,расположение,яркость,точка доступа,заставка,включение,темный,ночь,звонок,NFC,фонд,SIM</string>
+    <string name="quick_settings_tiles_more">,СС,запись,синхронизация,экран,тайм-аут,блокировка,часы,камера,клавиатура</string>
+    <string name="quick_settings_ui_mode_night_label">Темный режим,Темная тема</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="remove_ads">УДАЛИТЬ РЕКЛАМУ</string>
+    <string name="remove_all_annoying_ads_forever_by_just">Удалите всю раздражающую рекламу навсегда, просто:</string>
+    <string name="reply">Отвечать</string>
+    <string name="reset_position">Сбросить позицию</string>
+    <string name="reset_size">Сбросить размер</string>
+    <string name="ringing_state">Состояние звонка</string>
+    <string name="ringing_state_change_animation">Анимация изменения состояния звонка</string>
+    <string name="s1">Сохранить изображение</string>
+    <string name="s2">Разрешить объявлению сохранить изображение в галерее?</string>
+    <string name="s3">Разрешить</string>
+    <string name="s4">Отклонить</string>
+    <string name="s5">Создать мероприятие</string>
+    <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
+    <string name="s7">Тестовое объявление</string>
+    <string name="screen_lock">Блокировка экрана</string>
+    <string name="screen_record_name">Запись экрана</string>
+    <string name="screen_time">Экранное время</string>
+    <string name="screen_time_no_permission">Нет разрешения</string>
+    <string name="screenshot">Скриншот</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string name="seconds_10">10 секунд</string>
+    <string name="seconds_3">3 секунды</string>
+    <string name="seconds_30">30 секунд</string>
+    <string name="shake">Встряхнуть</string>
+    <string name="silent_txt">Тихий</string>
+    <string name="sound">Звук</string>
+    <string name="start">Начинать</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="swipe_button_to_unlock_notch">Проведите по кнопке, чтобы разблокировать выемку</string>
+    <string name="switch_sim">Переключить SIM-карту для передачи данных</string>
+    <string name="test_text">Новое электронное письмо. Хороший длинный текст — это хорошо, вот что с ним можно протестировать.</string>
+    <string name="text_off">Выключенный</string>
+    <string name="text_on">На</string>
+    <string name="text_rate_content">Мы очень усердно работаем над тем, чтобы сделать приложение лучше для вас, и нам хотелось бы знать: как бы вы оценили наше приложение\?</string>
+    <string name="text_rate_now">Оценить сейчас</string>
+    <string name="text_thank_you">Спасибо за использование</string>
+    <string name="thank_for_your_feedback">Спасибо за ваш отзыв!</string>
+    <string name="thank_you">Спасибо</string>
+    <string name="the_app_uses_the_accessibility_service_to_display_the_notch_view">Приложение использует AccessibilityService для отображения выреза.</string>
+    <string name="toast_saved_failed">Извини! Не удалось сохранить обои.</string>
+    <string name="toast_wallpaper_set">Обои обновлены!</string>
+    <string name="toast_wallpaper_set_failed">Извини! Невозможно установить обои</string>
+    <string name="tt_ad_close_text">Реклама закрыта</string>
+    <string name="tt_ad_is_closed">Объявления закрыты</string>
+    <string name="tt_ad_logo_txt">Рекламное объявление</string>
+    <string name="tt_add_bad_reason">Добавьте причину, по которой вы считаете контент неправильным</string>
+    <string name="tt_bad">Плохо</string>
+    <string name="tt_choose_language">ru</string>
+    <string name="tt_comment_num">Отзывы: %1$s</string>
+    <string name="tt_count_down_view">Пропустить</string>
+    <string name="tt_dislike_header_tv_back">Назад</string>
+    <string name="tt_dislike_header_tv_title">Выбрать</string>
+    <string name="tt_display_error">Ошибка отображения</string>
+    <string name="tt_done">Готово</string>
+    <string name="tt_feedback_experience_text">Мы будем и дальше улучшать наши услуги.</string>
+    <string name="tt_feedback_submit_text">Вы уже оставили отзыв! Пожалуйста, не отправляйте его повторно.</string>
+    <string name="tt_feedback_thank_text">Спасибо за отзыв!</string>
+    <string name="tt_feel_hint">Как вам эта реклама?</string>
+    <string name="tt_good">Хорошо</string>
+    <string name="tt_like_this_ad">Понравилась эта реклама?</string>
+    <string name="tt_logo_en">Реклама</string>
+    <string name="tt_msgPlayable">Завершите просмотр, чтобы получить награду</string>
+    <string name="tt_multiple_ad_indicator">Реклама %1$d из %2$d</string>
+    <string name="tt_negtiveBtnBtnText">Покинуть</string>
+    <string name="tt_negtive_txt">Отмена</string>
+    <string name="tt_no_network">Нет соединения с сетью. Повторите позже.</string>
+    <string name="tt_not_bad">Неплохо</string>
+    <string name="tt_other_reason">Другие причины</string>
+    <string name="tt_postiveBtnText">Продолжить</string>
+    <string name="tt_postiveBtnTextPlayable">Продолжить просмотр</string>
+    <string name="tt_postive_txt">ОК</string>
+    <string name="tt_privacy_title">Политика конфиденциальности</string>
+    <string name="tt_report_this_ad">Вы можете отправить отзыв об этой рекламе, чтобы помочь нам стать лучше</string>
+    <string name="tt_reward_feedback">Отзыв</string>
+    <string name="tt_reward_full_skip">Пропустить через %1$s с.</string>
+    <string name="tt_reward_msg">Посмотрите видео целиком, чтобы получить награду</string>
+    <string name="tt_reward_screen_skip_tx">Пропустить</string>
+    <string name="tt_select_reason">Выберите причину</string>
+    <string name="tt_skip_ad_time_text">Можно пропустить через s %dс</string>
+    <string name="tt_suggestion_commit">Отправить</string>
+    <string name="tt_suggestion_description">Введите описание ошибки отображения и нажмите кнопку «Отправить». Рекламный креатив также будет отправлен в Pangle в целях диагностики проблемы.</string>
+    <string name="tt_try_now">Попробуй</string>
+    <string name="tt_video_bytesize">Трафик</string>
+    <string name="tt_video_dial_phone">Позвонить</string>
+    <string name="tt_video_download_apk">Загрузить</string>
+    <string name="tt_video_mobile_go_detail">Посмотреть</string>
+    <string name="tt_video_retry_des_txt">Ошибка загрузки. Попробуйте снова.</string>
+    <string name="tt_video_without_wifi_tips">На воспроизведение этого контента будет потрачено %.2f МБ трафика</string>
+    <string name="tt_web_title_default">Рекламное объявление</string>
+    <string name="txt_all">Все</string>
+    <string name="txt_app">Приложение</string>
+    <string name="txt_battery_charge">Заряд батареи</string>
+    <string name="txt_better_notifications">Улучшенные уведомления</string>
+    <string name="txt_bluetooth_connect">Bluetooth-подключение</string>
+    <string name="txt_call_timer">Таймер вызова</string>
+    <string name="txt_calls">Звонки</string>
+    <string name="txt_continue">Продолжать</string>
+    <string name="txt_decorate_your_front_camera_support_you_with_useful_functions">Украсьте свою переднюю камеру и поддержите вас полезными функциями</string>
+    <string name="txt_denie">Чтобы использовать эту функцию, вам необходимо разрешение</string>
+    <string name="txt_display_a_battery_charging_animation_when_plugged">Отображать анимацию зарядки аккумулятора при подключении</string>
+    <string name="txt_display_a_timer_when_in_call">Отображение таймера во время разговора</string>
+    <string name="txt_display_and_control_listening_music_on_your_notch">Отображение и управление прослушиванием музыки на вашем мониторе</string>
+    <string name="txt_display_app_notifications_amp_make_actions_by_your_notch">Отображайте уведомления приложений и выполняйте действия без каких-либо усилий</string>
+    <string name="txt_display_navigation_directions_in_your_notch_when_using_google_map_navigation">Отображение направлений навигации в вырезе при использовании навигации по карте Google.</string>
+    <string name="txt_display_ringing_mode_change_on_your_notch">Отображение изменения режима звонка на вырезе</string>
+    <string name="txt_do_you_want_to_quit_the_app">Вы хотите выйти из приложения\?</string>
+    <string name="txt_done">Сделанный</string>
+    <string name="txt_easy_access_to_quick_action_provide_better_experience_for_your_phone">Легкий доступ к быстрым действиям, улучшите работу вашего телефона</string>
+    <string name="txt_easy_to_see_the_notifications_and_do_the_actions_on_dynamic_island_view">Легко просматривать уведомления и выполнять действия в режиме динамического острова.</string>
+    <string name="txt_easy_use">Легко использовать</string>
+    <string name="txt_headset">Гарнитура</string>
+    <string name="txt_headset_connect_animation">Анимация подключения гарнитуры</string>
+    <string name="txt_hide_default">Скрыть настройки по умолчанию</string>
+    <string name="txt_hide_default_call_app_notification_may_not_work_on_some_devices">Скрыть уведомление приложения для звонков по умолчанию (может не работать на некоторых устройствах)</string>
+    <string name="txt_icon">Икона</string>
+    <string name="txt_incoming_call">Входящий звонок</string>
+    <string name="txt_language">Язык</string>
+    <string name="txt_more_app">Больше приложений</string>
+    <string name="txt_music">Музыка</string>
+    <string name="txt_navigation">Навигация</string>
+    <string name="txt_notification">Уведомление</string>
+    <string name="txt_quick_ations">Быстрые действия</string>
+    <string name="txt_quick_display">Быстрый показ</string>
+    <string name="txt_quit">Покидать</string>
+    <string name="txt_rate_us">Оцените нас</string>
+    <string name="txt_real_time_updates_provide_the_latest_notification">Обновления в режиме реального времени предоставляют последние уведомления</string>
+    <string name="txt_request_record_permission">«Bluetooth — это разрешение, необходимое для работы приложения»</string>
+    <string name="txt_ringing_state">Состояние звонка</string>
+    <string name="txt_rotate_cover">Повернуть крышку</string>
+    <string name="txt_select_apps">Выберите приложения</string>
+    <string name="txt_settings">Настройки</string>
+    <string name="txt_share_app">Поделиться приложением</string>
+    <string name="txt_show_action">Показать действие</string>
+    <string name="txt_show_incoming_calls_directly_on_your_notch">Показывайте входящие вызовы прямо на экране</string>
+    <string name="txt_show_on_lock_screen">Показать на экране блокировки</string>
+    <string name="txt_skip">Пропускать</string>
+    <string name="txt_thanks_you_for_rating">Спасибо вам за оценку!</string>
+    <string name="txt_turn_on">Включать</string>
+    <string name="used_to_display_all_the_devices_connected_through_bluetooth_on_the_notch">Используется для отображения всех устройств, подключенных через Bluetooth, на вырезе.</string>
+    <string name="used_to_display_the_notch_over_other_apps">Это приложение необходимо активировать в разделе «Специальные возможности», чтобы настроить и отобразить динамический остров в верхней части экрана для уведомлений. Никакие данные не собираются и не передаются с помощью службы специальных возможностей.</string>
+    <string name="used_to_forward_listening_music_and_notifications_to_the_notch">Вам необходимо предоставить разрешение на отображение уведомлений на Dynamic Island и управление ими.</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"ВЫКЛ."</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ВКЛ."</string>
+    <string name="vertical">Вертикальный (Y)</string>
+    <string name="vibrate">Вибрация</string>
+    <string name="vibration">Вибрация</string>
+    <string name="visibility">Видимость</string>
+    <string name="watermark_label_prefix">AdMob – </string>
+    <string name="well_comeback">Добро пожаловать</string>
+    <string name="when_nothing_to_show">Когда нечего показывать</string>
+    <string name="width">Ширина</string>
+    <string name="you_can_change_the_style">Вы можете изменить стиль, настроить размер и положение выреза по своему усмотрению.</string>
+</resources>

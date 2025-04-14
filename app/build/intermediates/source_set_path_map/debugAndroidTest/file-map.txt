@@ -1,0 +1,4 @@
+com.tools.edge.dynamic.island.test.app-androidTest-0 D:\OUT SRC\Dynamic-Island\Dynamic-Island\app\build\generated\res\resValues\androidTest\debug
+com.tools.edge.dynamic.island.test.app-mergeDebugAndroidTestResources-1 D:\OUT SRC\Dynamic-Island\Dynamic-Island\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.tools.edge.dynamic.island.test.app-mergeDebugAndroidTestResources-2 D:\OUT SRC\Dynamic-Island\Dynamic-Island\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.tools.edge.dynamic.island.test.app-merged_res-3 D:\OUT SRC\Dynamic-Island\Dynamic-Island\app\build\intermediates\merged_res\debugAndroidTest

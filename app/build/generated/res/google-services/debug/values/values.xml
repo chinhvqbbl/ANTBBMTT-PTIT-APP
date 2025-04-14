@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://dynamic-10d0a-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">984578399999</string>
+    <string name="google_api_key" translatable="false">AIzaSyB3D5r5iwVPk8SX_eR36bp-UQSGKfQis4k</string>
+    <string name="google_app_id" translatable="false">1:984578399999:android:d247242110f8706988f6ca</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB3D5r5iwVPk8SX_eR36bp-UQSGKfQis4k</string>
+    <string name="google_storage_bucket" translatable="false">dynamic-10d0a.firebasestorage.app</string>
+    <string name="project_id" translatable="false">dynamic-10d0a</string>
+</resources>

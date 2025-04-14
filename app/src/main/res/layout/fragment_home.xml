@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraint_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_16sdp"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_dynamic_island"
+                style="@style/TextViewSemiBold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dynamic_island"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/imv_home_settings"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_settings"
+                app:layout_constraintBottom_toBottomOf="@id/tv_dynamic_island"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@id/tv_dynamic_island"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <com.google.android.material.switchmaterial.SwitchMaterial
+                android:id="@+id/switch_display_notch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_16sdp"
+                android:background="@drawable/bg_switch_dynamic"
+                android:checked="false"
+                android:fontFamily="@font/fira_sans_medium"
+                android:padding="@dimen/_8sdp"
+                android:text="@string/display_notch"
+                android:textColor="@color/color_777777"
+                android:textSize="12dp"
+                android:theme="@style/SCBSwitch"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_dynamic_island" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_notch_style"
+                style="@style/TextViewMediumActive"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_16sdp"
+                android:text="@string/notch_style"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/switch_display_notch" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraint_oval"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:layout_marginEnd="@dimen/_4sdp"
+                android:background="@drawable/bg_notch_style"
+                android:paddingVertical="@dimen/_8sdp"
+                app:layout_constraintEnd_toStartOf="@id/constraint_bunny"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_notch_style">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_dynamic_oval"
+                    android:layout_width="0dp"
+                    android:layout_height="27dp"
+                    android:src="@drawable/ic_dynamic_oval"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintWidth_percent="0.7" />
+
+                <RelativeLayout
+                    android:id="@+id/rlt_oval"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_8sdp"
+                    android:background="@drawable/bg_text_apply_active"
+                    android:gravity="center"
+                    android:paddingVertical="4dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/img_dynamic_oval"
+                    app:layout_constraintWidth_percent=".65">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_apply_oval"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/fira_sans_medium"
+                        android:text="@string/apply"
+                        android:textAlignment="center"
+                        android:textColor="@color/white"
+                        android:textSize="12dp" />
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/img_tick"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_marginEnd="@dimen/_4sdp"
+                        android:layout_toStartOf="@id/tv_apply_oval"
+                        android:src="@drawable/ic_tick_apply" />
+                </RelativeLayout>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraint_bunny"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_4sdp"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:background="@drawable/bg_notch_style"
+                android:paddingVertical="@dimen/_8sdp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/constraint_oval"
+                app:layout_constraintTop_toBottomOf="@id/tv_notch_style">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_dynamic_bunny"
+                    android:layout_width="0dp"
+                    android:layout_height="27dp"
+                    android:src="@drawable/ic_dynamic_bunny"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintWidth_percent="0.7" />
+
+                <RelativeLayout
+                    android:id="@+id/rlt_bunny"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_8sdp"
+                    android:background="@drawable/bg_text_apply_inactive"
+                    android:gravity="center"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/img_dynamic_bunny"
+                    app:layout_constraintWidth_percent=".65">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_apply_bunny"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/fira_sans_medium"
+                        android:paddingVertical="4dp"
+                        android:text="@string/apply"
+                        android:textAlignment="center"
+                        android:textColor="@color/color_00A03A"
+                        android:textSize="12dp" />
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/img_tick_bunny"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_marginEnd="@dimen/_4sdp"
+                        android:layout_toStartOf="@id/tv_apply_bunny"
+                        android:src="@drawable/ic_tick_apply"
+                        android:visibility="gone" />
+                </RelativeLayout>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_notch_position"
+                style="@style/TextViewMediumActive"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:text="@string/notch_position"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/constraint_oval" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_vertical"
+                style="@style/TextViewMediumActive"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:text="@string/vertical"
+                app:layout_constraintEnd_toStartOf="@id/rlt_vertical"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_notch_position"
+                app:layout_constraintWidth_percent="0.3" />
+
+            <RelativeLayout
+                android:id="@+id/rlt_vertical"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="@id/tv_vertical"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/tv_vertical"
+                app:layout_constraintTop_toTopOf="@id/tv_vertical"
+                app:layout_constraintWidth_percent="0.7">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_vertical_bottom"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:padding="6dp"
+                    android:src="@drawable/ic_vertical_bottom_active" />
+
+                <SeekBar
+                    android:id="@+id/seekbar_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toStartOf="@id/img_vertical_top"
+                    android:layout_toEndOf="@id/img_vertical_bottom"
+                    android:max="100"
+                    android:min="0"
+                    android:progress="5"
+                    android:progressTint="@color/black"
+                    android:thumbTint="@color/black"
+                    tools:targetApi="o" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_vertical_top"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentEnd="true"
+                    android:padding="6dp"
+                    android:src="@drawable/ic_vertical_top_active" />
+            </RelativeLayout>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_horizontal"
+                style="@style/TextViewMediumActive"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:text="@string/horizontal"
+                app:layout_constraintEnd_toStartOf="@id/rlt_horizontal"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_vertical"
+                app:layout_constraintWidth_percent="0.3" />
+
+            <RelativeLayout
+                android:id="@+id/rlt_horizontal"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="@id/tv_horizontal"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/tv_horizontal"
+                app:layout_constraintTop_toTopOf="@id/tv_horizontal"
+                app:layout_constraintWidth_percent="0.7">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_horizontal_left"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:padding="6dp"
+                    android:src="@drawable/ic_horizontal_left_active" />
+
+                <SeekBar
+                    android:id="@+id/seekbar_horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toStartOf="@id/img_horizontal_right"
+                    android:layout_toEndOf="@id/img_horizontal_left"
+                    android:max="50"
+                    android:min="-50"
+                    android:progress="0"
+                    android:progressTint="@color/black"
+                    android:thumbTint="@color/black" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_horizontal_right"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentEnd="true"
+                    android:padding="6dp"
+                    android:src="@drawable/ic_horizontal_right_active" />
+            </RelativeLayout>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_reset_position"
+                style="@style/TextViewMediumActive"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_6sdp"
+                android:background="@drawable/bg_text_custom"
+                android:paddingHorizontal="@dimen/_16sdp"
+                android:paddingVertical="@dimen/_6sdp"
+                android:text="@string/reset_position"
+                android:textAlignment="center"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_horizontal"
+                app:layout_constraintWidth_percent="0.4" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_notch_size"
+                style="@style/TextViewMediumActive"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:text="@string/notch_size"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_reset_position" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_width"
+                style="@style/TextViewMediumActive"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:text="@string/width"
+                app:layout_constraintEnd_toStartOf="@id/rlt_width"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_notch_size"
+                app:layout_constraintWidth_percent="0.3" />
+
+            <RelativeLayout
+                android:id="@+id/rlt_width"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="@id/tv_width"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/tv_width"
+                app:layout_constraintTop_toTopOf="@id/tv_width"
+                app:layout_constraintWidth_percent="0.7">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_width_bottom"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:padding="6dp"
+                    android:src="@drawable/ic_horizontal_left_active" />
+
+                <SeekBar
+                    android:id="@+id/seekbar_width"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toStartOf="@id/img_width_top"
+                    android:layout_toEndOf="@id/img_width_bottom"
+                    android:max="200"
+                    android:min="70"
+                    android:progress="130"
+                    android:progressTint="@color/black"
+                    android:thumbTint="@color/black" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_width_top"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentEnd="true"
+                    android:padding="6dp"
+                    android:src="@drawable/ic_horizontal_right_active" />
+            </RelativeLayout>
+
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_height"
+                style="@style/TextViewMediumActive"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:text="@string/height"
+                app:layout_constraintEnd_toStartOf="@id/rlt_width"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_width"
+                app:layout_constraintWidth_percent="0.3" />
+
+            <RelativeLayout
+                android:id="@+id/rlt_height"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="@id/tv_height"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/tv_height"
+                app:layout_constraintTop_toTopOf="@id/tv_height"
+                app:layout_constraintWidth_percent="0.7">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_height_bottom"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:padding="6dp"
+                    android:src="@drawable/ic_vertical_bottom_active" />
+
+                <SeekBar
+                    android:id="@+id/seekbar_height"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toStartOf="@id/img_height_top"
+                    android:layout_toEndOf="@id/img_height_bottom"
+                    android:max="60"
+                    android:min="20"
+                    android:progress="33"
+                    android:progressTint="@color/black"
+                    android:thumbTint="@color/black" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_height_top"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentEnd="true"
+                    android:padding="6dp"
+                    android:src="@drawable/ic_vertical_top_active" />
+            </RelativeLayout>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_reset_size"
+                style="@style/TextViewMediumActive"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_6sdp"
+                android:background="@drawable/bg_text_custom"
+                android:paddingHorizontal="@dimen/_16sdp"
+                android:paddingVertical="@dimen/_6sdp"
+                android:text="@string/reset_size"
+                android:textAlignment="center"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_height"
+                app:layout_constraintWidth_percent="0.4" />
+
+            <View
+                android:id="@+id/view_fake"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@color/transparent80"
+                android:clickable="true"
+                android:focusable="true"
+                android:visibility="gone"
+                app:layout_constraintBottom_toBottomOf="@id/tv_reset_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/tv_notch_style" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+
+</layout>
