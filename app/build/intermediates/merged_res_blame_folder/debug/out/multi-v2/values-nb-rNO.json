@@ -4,7 +4,7 @@
             "outputFile": "com.tools.edge.dynamic.island.app-mergeDebugResources-112:/values-nb-rNO/values-nb-rNO.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\8.10\\transforms\\043f69af4b56b0e438c8424ec48b03e0\\transformed\\jetified-imagepicker-2.1\\res\\values-nb-rNO\\values-nb-rNO.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\3f0483ff5d9e51584915beffefce636e\\transformed\\jetified-imagepicker-2.1\\res\\values-nb-rNO\\values-nb-rNO.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

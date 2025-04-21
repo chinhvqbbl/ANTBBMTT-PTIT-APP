@@ -4,7 +4,7 @@
             "outputFile": "com.tools.edge.dynamic.island.app-mergeDebugResources-112:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\8.10\\transforms\\4d7c7090680f5351a31130349632498e\\transformed\\material-1.9.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\5b5d7e62057353ee2846d4bb7c918caa\\transformed\\material-1.9.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

@@ -4,26 +4,26 @@
             "outputFile": "com.tools.edge.dynamic.island.app-mergeDebugResources-112:/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\8.10\\transforms\\5d7e8b11b14ae583052ed710e6198ecc\\transformed\\jetified-same-16.8.61\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\2189510ed88c69f94c9a603620c25ba1\\transformed\\appcompat-1.6.1\\res\\values-v26\\values-v26.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,158",
-                        "endLines": "2,5",
-                        "endColumns": "102,12",
-                        "endOffsets": "153,328"
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,381,557,796",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,376,552,791,884"
                     },
                     "to": {
-                        "startLines": "17,19",
-                        "startColumns": "4,4",
-                        "startOffsets": "934,1130",
-                        "endLines": "17,21",
-                        "endColumns": "102,12",
-                        "endOffsets": "1032,1300"
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "100,175,262,426,602,841",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "170,257,421,597,836,929"
                     }
                 },
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\8.10\\transforms\\8254e0d7c8bb4ea866ba98b9fe12efdf\\transformed\\jetified-reward-16.8.61\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\702dbc3fa2142b56b9e21ce0b2f284cc\\transformed\\jetified-reward-16.8.61\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -42,22 +42,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\8.10\\transforms\\b328987ac45ce4f692eeee25b3160c89\\transformed\\appcompat-1.6.1\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\e4cac4bfb5a44220118f62ef71fa13ca\\transformed\\jetified-same-16.8.61\\res\\values-v26\\values-v26.xml",
                     "from": {
-                        "startLines": "2,3,4,8,12,16",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,130,217,381,557,796",
-                        "endLines": "2,3,7,11,15,16",
-                        "endColumns": "74,86,12,12,12,92",
-                        "endOffsets": "125,212,376,552,791,884"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,158",
+                        "endLines": "2,5",
+                        "endColumns": "102,12",
+                        "endOffsets": "153,328"
                     },
                     "to": {
-                        "startLines": "2,3,4,8,12,16",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "100,175,262,426,602,841",
-                        "endLines": "2,3,7,11,15,16",
-                        "endColumns": "74,86,12,12,12,92",
-                        "endOffsets": "170,257,421,597,836,929"
+                        "startLines": "17,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "934,1130",
+                        "endLines": "17,21",
+                        "endColumns": "102,12",
+                        "endOffsets": "1032,1300"
                     }
                 }
             ]

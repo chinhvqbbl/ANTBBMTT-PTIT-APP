@@ -53,10 +53,10 @@
         <package android:name="com.facebook.katana" />
 
         <intent>
-            <action android:name="com.android.vending.billing.InAppBillingService.BIND" />
+            <action android:name="com.applovin.am.intent.action.APPHUB_SERVICE" />
         </intent>
         <intent>
-            <action android:name="com.applovin.am.intent.action.APPHUB_SERVICE" />
+            <action android:name="com.android.vending.billing.InAppBillingService.BIND" />
         </intent>
 
         <package android:name="com.android.vending" />
@@ -85,15 +85,15 @@
     </queries>
 
     <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-    <uses-permission android:name="com.android.vending.BILLING" />
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- Required by older versions of Google Play services to create IID tokens -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
     <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
     <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
     <uses-permission android:name="com.applovin.array.apphub.permission.BIND_APPHUB_SERVICE" />
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_TOPICS" />
+    <uses-permission android:name="com.android.vending.BILLING" />
     <uses-permission android:name="android.permission.REORDER_TASKS" />
+    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_TOPICS" />
 
     <permission
         android:name="com.tools.edge.dynamic.island.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
@@ -291,21 +291,6 @@
                     android:scheme="fbconnect" />
             </intent-filter>
         </activity>
-
-        <meta-data
-            android:name="com.google.android.play.billingclient.version"
-            android:value="7.0.0" />
-
-        <activity
-            android:name="com.android.billingclient.api.ProxyBillingActivity"
-            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-        <activity
-            android:name="com.android.billingclient.api.ProxyBillingActivityV2"
-            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"
@@ -529,67 +514,24 @@
             android:exported="false"
             android:permission="android.permission.BIND_JOB_SERVICE" />
 
+        <meta-data
+            android:name="com.google.android.play.billingclient.version"
+            android:value="7.0.0" />
+
+        <activity
+            android:name="com.android.billingclient.api.ProxyBillingActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.android.billingclient.api.ProxyBillingActivityV2"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
         <activity
             android:name="com.adcolony.sdk.AdColonyAdViewActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:hardwareAccelerated="true" />
-
-        <uses-library
-            android:name="android.ext.adservices"
-            android:required="false" />
-
-        <activity
-            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
-        <activity
-            android:name="com.google.android.gms.ads.AdActivity"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent" />
-
-        <provider
-            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-            android:authorities="com.tools.edge.dynamic.island.mobileadsinitprovider"
-            android:exported="false"
-            android:initOrder="100" />
-
-        <service
-            android:name="com.google.android.gms.ads.AdService"
-            android:enabled="true"
-            android:exported="false" />
-
-        <activity
-            android:name="com.google.android.gms.ads.OutOfContextTestingActivity"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-            android:exported="false" />
-        <activity
-            android:name="com.google.android.gms.ads.NotificationHandlerActivity"
-            android:excludeFromRecents="true"
-            android:exported="false"
-            android:launchMode="singleTask"
-            android:taskAffinity=""
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-
-        <property
-            android:name="android.adservices.AD_SERVICES_CONFIG"
-            android:resource="@xml/gma_ad_services_config" />
-
-        <activity
-            android:name="com.facebook.ads.AudienceNetworkActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-
-        <provider
-            android:name="com.facebook.ads.AudienceNetworkContentProvider"
-            android:authorities="com.tools.edge.dynamic.island.AudienceNetworkContentProvider"
-            android:exported="false" />
-
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
-
         <activity
             android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
             android:exported="true"
@@ -641,7 +583,39 @@
             <intent-filter>
                 <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
             </intent-filter>
-        </receiver>
+        </receiver> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <provider
+            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+            android:authorities="com.tools.edge.dynamic.island.mobileadsinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <service
+            android:name="com.google.android.gms.ads.AdService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.android.gms.ads.OutOfContextTestingActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="false" />
+        <activity
+            android:name="com.google.android.gms.ads.NotificationHandlerActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:launchMode="singleTask"
+            android:taskAffinity=""
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <property
+            android:name="android.adservices.AD_SERVICES_CONFIG"
+            android:resource="@xml/gma_ad_services_config" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
@@ -753,12 +727,6 @@
             </intent-filter>
         </receiver>
 
-        <activity
-            android:name="com.vungle.ads.internal.ui.VungleActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize|uiMode"
-            android:hardwareAccelerated="true"
-            android:launchMode="singleTop" />
-
         <meta-data
             android:name="com.bytedance.sdk.pangle.version"
             android:value="6.4.0.3" /> <!-- 下面的activity和service必须注册 -->
@@ -829,6 +797,10 @@
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:launchMode="standard"
             android:theme="@style/tt_full_screen_new" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <uses-library
             android:name="androidx.window.extensions"
@@ -836,14 +808,30 @@
         <uses-library
             android:name="androidx.window.sidecar"
             android:required="false" />
+        <uses-library
+            android:name="android.ext.adservices"
+            android:required="false" />
 
-        <service
-            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-            android:exported="false" >
-            <meta-data
-                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-                android:value="cct" />
-        </service>
+        <activity
+            android:name="com.facebook.ads.AudienceNetworkActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.facebook.ads.AudienceNetworkContentProvider"
+            android:authorities="com.tools.edge.dynamic.island.AudienceNetworkContentProvider"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.vungle.ads.internal.ui.VungleActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize|uiMode"
+            android:hardwareAccelerated="true"
+            android:launchMode="singleTop" />
 
         <provider
             android:name="leakcanary.internal.LeakCanaryFileProvider"
@@ -918,32 +906,6 @@
         <receiver android:name="leakcanary.internal.NotificationReceiver" />
 
         <provider
-            android:name="com.squareup.picasso.PicassoProvider"
-            android:authorities="com.tools.edge.dynamic.island.com.squareup.picasso"
-            android:exported="false" />
-
-        <service
-            android:name="androidx.room.MultiInstanceInvalidationService"
-            android:directBootAware="true"
-            android:exported="false" />
-
-        <provider
-            android:name="me.jessyan.autosize.InitProvider"
-            android:authorities="com.tools.edge.dynamic.island.autosize-init-provider"
-            android:exported="false"
-            android:multiprocess="true" />
-
-        <service
-            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-            android:exported="false"
-            android:permission="android.permission.BIND_JOB_SERVICE" >
-        </service>
-
-        <receiver
-            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-            android:exported="false" />
-
-        <provider
             android:name="leakcanary.internal.MainProcessAppWatcherInstaller"
             android:authorities="com.tools.edge.dynamic.island.leakcanary-installer"
             android:enabled="@bool/leak_canary_watcher_auto_install"
@@ -952,6 +914,24 @@
             android:name="leakcanary.internal.PlumberInstaller"
             android:authorities="com.tools.edge.dynamic.island.plumber-installer"
             android:enabled="@bool/leak_canary_plumber_auto_install"
+            android:exported="false" />
+
+        <service
+            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+            android:exported="false" >
+            <meta-data
+                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+                android:value="cct" />
+        </service>
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.tools.edge.dynamic.island.com.squareup.picasso"
+            android:exported="false" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
             android:exported="false" />
 
         <receiver
@@ -973,6 +953,22 @@
                 <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
             </intent-filter>
         </receiver>
+
+        <service
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" >
+        </service>
+
+        <receiver
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+            android:exported="false" />
+
+        <provider
+            android:name="me.jessyan.autosize.InitProvider"
+            android:authorities="com.tools.edge.dynamic.island.autosize-init-provider"
+            android:exported="false"
+            android:multiprocess="true" />
 
         <activity
             android:name="com.mbridge.msdk.reward.player.MBRewardVideoActivity"

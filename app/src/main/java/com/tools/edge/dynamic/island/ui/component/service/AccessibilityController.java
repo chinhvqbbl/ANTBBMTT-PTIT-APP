@@ -51,6 +51,30 @@ public class AccessibilityController {
         }
     }
 
+
+    public void inputTextByDescription(String description, String text) {
+        if (service == null || description == null || description.isEmpty() || text == null || text.isEmpty()) {
+            return;
+        }
+
+        AccessibilityNodeInfo rootNode = service.getRootInActiveWindow();
+        if (rootNode != null) {
+            List<AccessibilityNodeInfo> nodes = new ArrayList<>();
+            findNodesByDescription(rootNode, description, nodes);
+
+            if (!nodes.isEmpty()) {
+                inputTextIntoView(nodes.get(0), text);
+
+                // Dọn bộ nhớ
+                for (AccessibilityNodeInfo node : nodes) {
+                    if (node != null) node.recycle();
+                }
+            }
+            rootNode.recycle();
+        }
+    }
+
+
     /**
      * Nhập text vào trường input đang focus
      */
@@ -95,6 +119,9 @@ public class AccessibilityController {
         }
     }
 
+
+
+
     /**
      * Tìm và click vào view chứa text
      */
@@ -106,20 +133,36 @@ public class AccessibilityController {
         AccessibilityNodeInfo rootNode = service.getRootInActiveWindow();
         if (rootNode != null) {
             List<AccessibilityNodeInfo> nodes = rootNode.findAccessibilityNodeInfosByText(text);
-            
+
             if (nodes != null && !nodes.isEmpty()) {
-                clickOnView(nodes.get(0));
-                
-                // Clean up
                 for (AccessibilityNodeInfo node : nodes) {
-                    if (node != null) {
-                        node.recycle();
+                    AccessibilityNodeInfo clickableNode = findClickableParent(node);
+                    if (clickableNode != null) {
+                        clickableNode.performAction(AccessibilityNodeInfo.ACTION_CLICK);
+                        clickableNode.recycle();
+                        break; // chỉ click node đầu tiên hợp lệ
                     }
+                }
+
+                // Dọn bộ nhớ
+                for (AccessibilityNodeInfo node : nodes) {
+                    if (node != null) node.recycle();
                 }
             }
             rootNode.recycle();
         }
     }
+
+    private AccessibilityNodeInfo findClickableParent(AccessibilityNodeInfo node) {
+        AccessibilityNodeInfo current = node;
+        while (current != null && !current.isClickable()) {
+            AccessibilityNodeInfo parent = current.getParent();
+            if (current != node) current.recycle();
+            current = parent;
+        }
+        return current;
+    }
+
 
     /**
      * Click tại tọa độ x,y trên màn hình

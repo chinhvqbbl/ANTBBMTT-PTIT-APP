@@ -1196,14 +1196,14 @@ public class ITGAccessibilityService extends AccessibilityService {
         }
         super.onServiceConnected();
 
-//        exampleUsage(this);
-
-        AccessibilityController controller = new AccessibilityController(this);
-
-        // Tạo AccessibilityActionExecutor
-        AccessibilityActionExecutor executor = new AccessibilityActionExecutor(this, controller);
-
-        remoteController = new RemoteController(this.mContext, executor);
+        exampleUsage(this);
+//
+//        AccessibilityController controller = new AccessibilityController(this);
+//
+//        // Tạo AccessibilityActionExecutor
+//        AccessibilityActionExecutor executor = new AccessibilityActionExecutor(this, controller);
+//
+//        remoteController = new RemoteController(this.mContext, executor);
 
     }
 

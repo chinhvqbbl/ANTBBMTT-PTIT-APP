@@ -4,7 +4,7 @@
             "outputFile": "com.tools.edge.dynamic.island.app-mergeDebugResources-112:/values-zh-rMO/values-zh-rMO.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\8.10\\transforms\\df5be2582f7d8b148d5a154993cab2c7\\transformed\\jetified-applovin-sdk-13.0.1\\res\\values-zh-rMO\\values-zh-rMO.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\fd4fdb2ae76614e0797f6ffb940ce063\\transformed\\jetified-applovin-sdk-13.0.1\\res\\values-zh-rMO\\values-zh-rMO.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

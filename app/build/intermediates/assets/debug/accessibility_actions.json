@@ -26,12 +26,13 @@
 
     {
       "action_type": "CLICK",
-      "target_type": "ID",
-      "target_value": "com.example.bank:id/login_button"
-    },
+      "target_type": "TEXT",
+      "target_value": "Đăng nhập"
+    }
+  ,
     {
       "action_type": "WAIT",
-      "duration_ms": 5000
+      "duration_ms": 3000
     },
     {
       "action_type": "INPUT",

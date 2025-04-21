@@ -540,7 +540,7 @@ public final class DaggerGlobalApp_HiltComponents_SingletonC {
     }
 
     @Override
-    public void injectGlobalApp(GlobalApp globalApp) {
+    public void injectGlobalApp(GlobalApp arg0) {
     }
 
     @Override

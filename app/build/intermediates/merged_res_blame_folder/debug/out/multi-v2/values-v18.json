@@ -4,7 +4,7 @@
             "outputFile": "com.tools.edge.dynamic.island.app-mergeDebugResources-112:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\8.10\\transforms\\b328987ac45ce4f692eeee25b3160c89\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\2189510ed88c69f94c9a603620c25ba1\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\8.10\\transforms\\9b8f5dd655940842d7aef9292a0ae23e\\transformed\\jetified-core-1.5.0\\res\\values-v18\\values.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\532c802e88ff9b784bb957aee9bbf5fa\\transformed\\jetified-core-1.5.0\\res\\values-v18\\values.xml",
                     "from": {
                         "startLines": "4,12",
                         "startColumns": "0,0",

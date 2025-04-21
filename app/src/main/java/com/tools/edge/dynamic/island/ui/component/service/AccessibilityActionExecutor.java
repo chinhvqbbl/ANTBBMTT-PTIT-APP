@@ -144,11 +144,18 @@ public class AccessibilityActionExecutor {
                 break;
 
             case AccessibilityAction.ACTION_INPUT:
-                if (AccessibilityAction.TARGET_ID.equals(targetType)) {
+                if ("FOCUSED".equals(targetType)) {
+                    controller.inputText(inputText);
+                    Log.d(TAG, "Input text '" + inputText + "' into focused view");
+                } else if (AccessibilityAction.TARGET_ID.equals(targetType)) {
                     controller.inputTextById(targetValue, inputText);
                     Log.d(TAG, "Input text '" + inputText + "' into view with ID: " + targetValue);
+                } else if ("DESCRIPTION".equals(targetType)) {
+                    controller.inputTextByDescription(targetValue, inputText);
+                    Log.d(TAG, "Input text '" + inputText + "' into view with description: " + targetValue);
                 }
                 break;
+
 
             case AccessibilityAction.ACTION_SCROLL:
                 if (AccessibilityAction.SCROLL_DOWN.equals(action.getScrollDirection())) {
@@ -169,6 +176,10 @@ public class AccessibilityActionExecutor {
                 break;
         }
     }
+
+
+
+
 
     /**
      * Đọc file JSON từ thư mục assets
