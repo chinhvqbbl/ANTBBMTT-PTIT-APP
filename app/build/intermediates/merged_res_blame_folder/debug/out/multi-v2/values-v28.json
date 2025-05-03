@@ -4,7 +4,7 @@
             "outputFile": "com.tools.edge.dynamic.island.app-mergeDebugResources-112:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\5b5d7e62057353ee2846d4bb7c918caa\\transformed\\material-1.9.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\fdf17096017fc5d3caf3068747db3e1b\\transformed\\material-1.9.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,26 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\922e7ba30a2728de79112ee854eafc07\\transformed\\jetified-ads-sdk-6.4.0.3\\res\\values-v28\\values-v28.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "7",
-                        "endColumns": "12",
-                        "endOffsets": "395"
-                    },
-                    "to": {
-                        "startLines": "46",
-                        "startColumns": "4",
-                        "startOffsets": "2926",
-                        "endLines": "51",
-                        "endColumns": "12",
-                        "endOffsets": "3266"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\532c802e88ff9b784bb957aee9bbf5fa\\transformed\\jetified-core-1.5.0\\res\\values-v28\\values.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\bd4f46932585a58586e9ca9e5f4539b6\\transformed\\jetified-core-1.5.0\\res\\values-v28\\values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",
@@ -61,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\2189510ed88c69f94c9a603620c25ba1\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\0be1ccdcfbc8856d41e3efde3f770ada\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -77,6 +58,25 @@
                         "endLines": "14,15,19,23",
                         "endColumns": "74,86,12,12",
                         "endOffsets": "1211,1298,1478,1670"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\fccd035e6764f6884d8e87afe2e4cf02\\transformed\\jetified-ads-sdk-6.4.0.3\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "395"
+                    },
+                    "to": {
+                        "startLines": "46",
+                        "startColumns": "4",
+                        "startOffsets": "2926",
+                        "endLines": "51",
+                        "endColumns": "12",
+                        "endOffsets": "3266"
                     }
                 }
             ]

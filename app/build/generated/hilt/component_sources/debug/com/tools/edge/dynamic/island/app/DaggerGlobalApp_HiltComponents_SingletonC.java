@@ -16,7 +16,6 @@ import com.tools.edge.dynamic.island.ui.component.splash.SplashViewModel;
 import com.tools.edge.dynamic.island.ui.component.splash.SplashViewModel_HiltModules_KeyModule_ProvideFactory;
 import dagger.hilt.android.ActivityRetainedLifecycle;
 import dagger.hilt.android.ViewModelLifecycle;
-import dagger.hilt.android.flags.HiltWrapper_FragmentGetContextFix_FragmentGetContextFixModule;
 import dagger.hilt.android.internal.builders.ActivityComponentBuilder;
 import dagger.hilt.android.internal.builders.ActivityRetainedComponentBuilder;
 import dagger.hilt.android.internal.builders.FragmentComponentBuilder;
@@ -27,6 +26,7 @@ import dagger.hilt.android.internal.builders.ViewWithFragmentComponentBuilder;
 import dagger.hilt.android.internal.lifecycle.DefaultViewModelFactories;
 import dagger.hilt.android.internal.lifecycle.DefaultViewModelFactories_InternalFactoryFactory_Factory;
 import dagger.hilt.android.internal.managers.ActivityRetainedComponentManager_LifecycleModule_ProvideActivityRetainedLifecycleFactory;
+import dagger.hilt.android.internal.managers.SavedStateHandleHolder;
 import dagger.hilt.android.internal.modules.ApplicationContextModule;
 import dagger.internal.DaggerGenerated;
 import dagger.internal.DoubleCheck;
@@ -72,16 +72,6 @@ public final class DaggerGlobalApp_HiltComponents_SingletonC {
       return this;
     }
 
-    /**
-     * @deprecated This module is declared, but an instance is not used in the component. This method is a no-op. For more, see https://dagger.dev/unused-modules.
-     */
-    @Deprecated
-    public Builder hiltWrapper_FragmentGetContextFix_FragmentGetContextFixModule(
-        HiltWrapper_FragmentGetContextFix_FragmentGetContextFixModule hiltWrapper_FragmentGetContextFix_FragmentGetContextFixModule) {
-      Preconditions.checkNotNull(hiltWrapper_FragmentGetContextFix_FragmentGetContextFixModule);
-      return this;
-    }
-
     public GlobalApp_HiltComponents.SingletonC build() {
       return new SingletonCImpl();
     }
@@ -90,13 +80,23 @@ public final class DaggerGlobalApp_HiltComponents_SingletonC {
   private static final class ActivityRetainedCBuilder implements GlobalApp_HiltComponents.ActivityRetainedC.Builder {
     private final SingletonCImpl singletonCImpl;
 
+    private SavedStateHandleHolder savedStateHandleHolder;
+
     private ActivityRetainedCBuilder(SingletonCImpl singletonCImpl) {
       this.singletonCImpl = singletonCImpl;
     }
 
     @Override
+    public ActivityRetainedCBuilder savedStateHandleHolder(
+        SavedStateHandleHolder savedStateHandleHolder) {
+      this.savedStateHandleHolder = Preconditions.checkNotNull(savedStateHandleHolder);
+      return this;
+    }
+
+    @Override
     public GlobalApp_HiltComponents.ActivityRetainedC build() {
-      return new ActivityRetainedCImpl(singletonCImpl);
+      Preconditions.checkBuilderRequirement(savedStateHandleHolder, SavedStateHandleHolder.class);
+      return new ActivityRetainedCImpl(singletonCImpl, savedStateHandleHolder);
     }
   }
 
@@ -433,6 +433,11 @@ public final class DaggerGlobalApp_HiltComponents_SingletonC {
       return ImmutableMap.<String, Provider<ViewModel>>of("com.tools.edge.dynamic.island.ui.component.splash.SplashViewModel", ((Provider) splashViewModelProvider));
     }
 
+    @Override
+    public Map<String, Object> getHiltViewModelAssistedMap() {
+      return ImmutableMap.<String, Object>of();
+    }
+
     private static final class SwitchingProvider<T> implements Provider<T> {
       private final SingletonCImpl singletonCImpl;
 
@@ -470,15 +475,16 @@ public final class DaggerGlobalApp_HiltComponents_SingletonC {
 
     private Provider<ActivityRetainedLifecycle> provideActivityRetainedLifecycleProvider;
 
-    private ActivityRetainedCImpl(SingletonCImpl singletonCImpl) {
+    private ActivityRetainedCImpl(SingletonCImpl singletonCImpl,
+        SavedStateHandleHolder savedStateHandleHolderParam) {
       this.singletonCImpl = singletonCImpl;
 
-      initialize();
+      initialize(savedStateHandleHolderParam);
 
     }
 
     @SuppressWarnings("unchecked")
-    private void initialize() {
+    private void initialize(final SavedStateHandleHolder savedStateHandleHolderParam) {
       this.provideActivityRetainedLifecycleProvider = DoubleCheck.provider(new SwitchingProvider<ActivityRetainedLifecycle>(singletonCImpl, activityRetainedCImpl, 0));
     }
 
@@ -540,7 +546,7 @@ public final class DaggerGlobalApp_HiltComponents_SingletonC {
     }
 
     @Override
-    public void injectGlobalApp(GlobalApp arg0) {
+    public void injectGlobalApp(GlobalApp globalApp) {
     }
 
     @Override

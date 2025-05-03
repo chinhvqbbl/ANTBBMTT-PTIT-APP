@@ -50,7 +50,7 @@ android {
             buildConfigField "String", "email_feedback", "\"glorymobile88@gmail.com\""
 
             manifestPlaceholders = [app_id: "ca-app-pub-3940256099942544~3347511713"]
-            buildConfigField "String", "admob_open_app_lunch_high", "\"ca-app-pub-3940256099942544/3419835294\""
+            buildConfigField "String", "admob_open_app_lunch_high", "\"ca-app-pub-3940256099942544/9257395921\""
             buildConfigField "String", "admob_inter_splash", "\"ca-app-pub-3940256099942544/1033173712\""
             buildConfigField "String", "admob_native_on_boarding", "\"ca-app-pub-3940256099942544/2247696110\""
             buildConfigField "String", "admob_native_language", "\"ca-app-pub-3940256099942544/2247696110\""

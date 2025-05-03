@@ -991,7 +991,6 @@ public class Utils {
         return null;
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.N)
     public static ArrayList<AppDetail> sortAppsAlphabetically(ArrayList<AppDetail> arrayList) {
         ArrayList<AppDetail> arrayList2 = new ArrayList<>(arrayList);
         arrayList.clear();

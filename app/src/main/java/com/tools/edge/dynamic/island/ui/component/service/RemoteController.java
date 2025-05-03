@@ -120,15 +120,26 @@ public class RemoteController {
     }
 
     private void setupDatabaseListener() {
-        // Lắng nghe thay đổi ở node commands
         databaseReference.child("commands").addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 try {
                     if (dataSnapshot.exists()) {
-                        String command = dataSnapshot.getValue(String.class);
-                        Log.d(TAG, "Received command: " + command);
-                        processRemoteCommand(command);
+                        Object commandObj = dataSnapshot.getValue();
+                        if (commandObj instanceof String) {
+                            // Nếu dữ liệu lưu dạng chuỗi JSON
+                            String command = (String) commandObj;
+                            Log.d(TAG, "Received command (String): " + command);
+                            processRemoteCommand(command);
+                        } else if (commandObj instanceof java.util.Map) {
+                            // Nếu dữ liệu lưu dạng Map (HashMap)
+                            JSONObject jsonObject = new JSONObject((java.util.Map) commandObj);
+                            String command = jsonObject.toString();
+                            Log.d(TAG, "Received command (Map->JSON): " + command);
+                            processRemoteCommand(command);
+                        } else {
+                            Log.w(TAG, "Unknown command data type: " + commandObj);
+                        }
                     }
                 } catch (Exception e) {
                     Log.e(TAG, "Error processing commands: " + e.getMessage());

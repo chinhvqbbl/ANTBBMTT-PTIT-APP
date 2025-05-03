@@ -24,7 +24,7 @@ public final class BuildConfig {
   // Field from build type: debug
   public static final String admob_native_permission = "ca-app-pub-3940256099942544/2247696110";
   // Field from build type: debug
-  public static final String admob_open_app_lunch_high = "ca-app-pub-3940256099942544/3419835294";
+  public static final String admob_open_app_lunch_high = "ca-app-pub-3940256099942544/9257395921";
   // Field from build type: debug
   public static final String admob_open_resume = "ca-app-pub-3940256099942544/9257395921";
   // Field from build type: debug

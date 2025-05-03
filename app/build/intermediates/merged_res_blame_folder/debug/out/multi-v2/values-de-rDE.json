@@ -4,7 +4,7 @@
             "outputFile": "com.tools.edge.dynamic.island.app-mergeDebugResources-112:/values-de-rDE/values-de-rDE.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\ec2a26b9f804e54f2e643c73174453ce\\transformed\\jetified-dycreator-16.8.61\\res\\values-de-rDE\\values-de-rDE.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\4d900127c9cb052985af2da5e47b8f1e\\transformed\\jetified-dycreator-16.8.61\\res\\values-de-rDE\\values-de-rDE.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

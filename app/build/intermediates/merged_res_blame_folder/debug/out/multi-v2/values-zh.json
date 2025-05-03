@@ -4,7 +4,7 @@
             "outputFile": "com.tools.edge.dynamic.island.app-mergeDebugResources-112:/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\ec2a26b9f804e54f2e643c73174453ce\\transformed\\jetified-dycreator-16.8.61\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\4d900127c9cb052985af2da5e47b8f1e\\transformed\\jetified-dycreator-16.8.61\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\b796a585f5f079afdba7a87db884fdff\\transformed\\jetified-ucrop-2.2.6\\res\\values-zh\\values-zh.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,109,163",
-                        "endColumns": "53,53,46",
-                        "endOffsets": "104,158,205"
-                    },
-                    "to": {
-                        "startLines": "331,332,333",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "22046,22100,22154",
-                        "endColumns": "53,53,46",
-                        "endOffsets": "22095,22149,22196"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\e4cac4bfb5a44220118f62ef71fa13ca\\transformed\\jetified-same-16.8.61\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\3c91d79a67b6c8226c15c031d54a9f7b\\transformed\\jetified-same-16.8.61\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -52,40 +35,6 @@
                         "startOffsets": "4289,4349,4419,4490,4564,4643,4724,4798,4879,4962,5043,5120",
                         "endColumns": "59,69,70,73,78,80,73,80,82,80,76,65",
                         "endOffsets": "4344,4414,4485,4559,4638,4719,4793,4874,4957,5038,5115,5181"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\be806b226a8880aeb4ae704241e755ff\\transformed\\jetified-videojs-16.8.61\\res\\values-zh\\values-zh.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,115,177,252,309,399,462,543,623",
-                        "endColumns": "59,61,74,56,89,62,80,79,86",
-                        "endOffsets": "110,172,247,304,394,457,538,618,705"
-                    },
-                    "to": {
-                        "startLines": "78,79,80,81,82,84,85,86,87",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "5186,5246,5308,5383,5440,5591,5654,5735,5815",
-                        "endColumns": "59,61,74,56,89,62,80,79,86",
-                        "endOffsets": "5241,5303,5378,5435,5525,5649,5730,5810,5897"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\cdb055eaff3ab5e7d96b5b13ac6cbe08\\transformed\\jetified-mbsplash-16.8.61\\res\\values-zh\\values-zh.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,124,197",
-                        "endColumns": "68,72,66",
-                        "endOffsets": "119,192,259"
-                    },
-                    "to": {
-                        "startLines": "89,90,91",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "5969,6038,6111",
-                        "endColumns": "68,72,66",
-                        "endOffsets": "6033,6106,6173"
                     }
                 },
                 {
@@ -106,24 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\fef1596759759026f3bbce3ff8bbda80\\transformed\\jetified-BBLModuleAds-2.0.6\\res\\values-zh\\values-zh.xml",
-                    "from": {
-                        "startLines": "2,3,5,6,7,8,9,10,11",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,141,227,267,305,357,417,467,576",
-                        "endColumns": "85,43,39,37,51,59,49,108,54",
-                        "endOffsets": "136,180,262,300,352,412,462,571,626"
-                    },
-                    "to": {
-                        "startLines": "19,27,34,45,61,113,136,137,341",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1201,1765,2073,2833,3884,7584,9383,9433,23025",
-                        "endColumns": "85,43,39,37,51,59,49,108,54",
-                        "endOffsets": "1282,1804,2108,2866,3931,7639,9428,9537,23075"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\922e7ba30a2728de79112ee854eafc07\\transformed\\jetified-ads-sdk-6.4.0.3\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\fccd035e6764f6884d8e87afe2e4cf02\\transformed\\jetified-ads-sdk-6.4.0.3\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -140,7 +72,75 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\fd4fdb2ae76614e0797f6ffb940ce063\\transformed\\jetified-applovin-sdk-13.0.1\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\65912a2327bbfc2f1a8aab4f7573e506\\transformed\\jetified-ucrop-2.2.6\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "331,332,333",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "22046,22100,22154",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "22095,22149,22196"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\984d22469b9736753c1bad36a965dec3\\transformed\\jetified-videojs-16.8.61\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,177,252,309,399,462,543,623",
+                        "endColumns": "59,61,74,56,89,62,80,79,86",
+                        "endOffsets": "110,172,247,304,394,457,538,618,705"
+                    },
+                    "to": {
+                        "startLines": "78,79,80,81,82,84,85,86,87",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5186,5246,5308,5383,5440,5591,5654,5735,5815",
+                        "endColumns": "59,61,74,56,89,62,80,79,86",
+                        "endOffsets": "5241,5303,5378,5435,5525,5649,5730,5810,5897"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\82cad9730abe434fe862a6aa43eed4cf\\transformed\\jetified-BBLModuleAds-2.0.6\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,141,227,267,305,357,417,467,576",
+                        "endColumns": "85,43,39,37,51,59,49,108,54",
+                        "endOffsets": "136,180,262,300,352,412,462,571,626"
+                    },
+                    "to": {
+                        "startLines": "19,27,34,45,61,113,136,137,341",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1201,1765,2073,2833,3884,7584,9383,9433,23025",
+                        "endColumns": "85,43,39,37,51,59,49,108,54",
+                        "endOffsets": "1282,1804,2108,2866,3931,7639,9428,9537,23075"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\22ce9b53dbbb62983be3037b37455bba\\transformed\\jetified-mbsplash-16.8.61\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,124,197",
+                        "endColumns": "68,72,66",
+                        "endOffsets": "119,192,259"
+                    },
+                    "to": {
+                        "startLines": "89,90,91",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "5969,6038,6111",
+                        "endColumns": "68,72,66",
+                        "endOffsets": "6033,6106,6173"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vuquo\\.gradle\\caches\\8.10\\transforms\\ed061ddfc53b523307e784654a005a6c\\transformed\\jetified-applovin-sdk-13.0.1\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

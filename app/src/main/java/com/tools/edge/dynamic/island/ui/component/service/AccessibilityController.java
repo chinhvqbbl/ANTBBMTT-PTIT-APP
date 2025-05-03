@@ -144,10 +144,10 @@ public class AccessibilityController {
                     }
                 }
 
-                // Dọn bộ nhớ
-                for (AccessibilityNodeInfo node : nodes) {
-                    if (node != null) node.recycle();
-                }
+//                // Dọn bộ nhớ
+//                for (AccessibilityNodeInfo node : nodes) {
+//                    if (node != null) node.recycle();
+//                }
             }
             rootNode.recycle();
         }
